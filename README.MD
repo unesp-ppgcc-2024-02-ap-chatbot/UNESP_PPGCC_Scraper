@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/unesp-ppgcc-2024-02-ap-chatbot/UNESP_PPGCC_Scraper.git
    cd repo_name/scraper
    ```
 
