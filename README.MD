@@ -11,16 +11,18 @@ UNESP_PPGCC_Scraper is a web scraping tool designed to extract and process infor
 
 
 ## Table of Contents
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Step 1: Scrape Links](#step-1-scrape-links)
-  - [Step 2: Extract Page Content](#step-2-extract-page-content)
-  - [Step 3: Download External Content](#step-3-download-external-content)
-- [Output](#output)
-- [Project Structure](#project-structure)
-- [License](#license)
+- [UNESP\_PPGCC\_Scraper](#unesp_ppgcc_scraper)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Usage](#usage)
+    - [Step 1: Scrape Links](#step-1-scrape-links)
+    - [Step 2: Extract Page Content](#step-2-extract-page-content)
+    - [Step 3: Download External Content](#step-3-download-external-content)
+  - [Output](#output)
+  - [Project Structure](#project-structure)
+  - [License](#license)
 
 ## Getting Started
 
@@ -66,7 +68,7 @@ Before you begin, ensure you have the following installed:
 
 ## Usage
 
-All commands should be run from the `./scraper/` directory.
+All commands should be run from the `./scraper-unesp/scraper` directory.
 
 ### Step 1: Scrape Links
 
