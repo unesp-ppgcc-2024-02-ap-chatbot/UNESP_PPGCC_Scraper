@@ -8,13 +8,20 @@ from qdrant_client import models, QdrantClient
 from utils import remove_empty_lines
 from dotenv import load_dotenv
 import os
+import warnings
 
 load_dotenv()
 client = QdrantClient(url=os.getenv("QDRANT_URL"))
 
+warnings.filterwarnings("ignore")
+
 def get_markdown_list(markdown_dir: Path, type: str) -> list[dict[str, str]]:
     # List to store the content of each markdown file
     markdown_content_list = []
+
+    # check if the directory and if has files
+    if not markdown_dir.exists() or not any(markdown_dir.iterdir()):
+        print(f"No markdown files found in {markdown_dir}")
 
     # Loop through all markdown files and store their file name and content in a dictionary
     for markdown_file in markdown_dir.rglob("*.md"):
@@ -31,7 +38,9 @@ def get_markdown_list(markdown_dir: Path, type: str) -> list[dict[str, str]]:
 
 def get_chuncks():
     markdown_dir = Path(
-        ROOT_FOLDER, 
+        ROOT_FOLDER,
+        "01-scraper",
+        "scraper",
         "data", 
         "preprocessed", 
         "page_content", 
@@ -41,6 +50,8 @@ def get_chuncks():
     
     markdown_external_content_dir = Path(
         ROOT_FOLDER, 
+        "01-scraper",
+        "scraper",
         "data", 
         "preprocessed", 
         "external_content", 
@@ -87,6 +98,8 @@ def main():
         device="cuda"
     )
     client.delete_collection(collection_name)
+    
+    print(f"Creating collection {collection_name}")
     client.create_collection(
         collection_name=collection_name,
         vectors_config=models.VectorParams(
@@ -94,6 +107,8 @@ def main():
             distance=models.Distance.COSINE,
         ),
     )
+    
+    print(f"Uploading {len(chuncks)} documents to collection {collection_name}")
     client.upload_points(
         collection_name=collection_name,
         points=[
@@ -103,6 +118,7 @@ def main():
             for idx, doc in enumerate(chuncks)
         ],
     )
+    print("Done!")
 
 
 main()

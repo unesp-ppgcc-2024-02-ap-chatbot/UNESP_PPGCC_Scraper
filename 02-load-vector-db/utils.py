@@ -1,4 +1,11 @@
-ROOT_FOLDER = "/"
+from dotenv import load_dotenv
+import os
+import pathlib
+
+load_dotenv()
+
+CMD_FOLDER = pathlib.Path(os.getcwd())
+ROOT_FOLDER = os.getenv("ROOT_FOLDER") if os.getenv("ROOT_FOLDER") else CMD_FOLDER
 
 def remove_empty_lines(content: str) -> str:
     # Split the content by lines

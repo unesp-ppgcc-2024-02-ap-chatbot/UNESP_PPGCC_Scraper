@@ -29,3 +29,17 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+### Scraping
+
+See the [scraping](01-scraper/README.MD) directory.
+
+
+### Chunking and add chunks to the vector database
+
+Using Qdrant locally:
+
+```bash
+docker-compose up -d
+```
+
