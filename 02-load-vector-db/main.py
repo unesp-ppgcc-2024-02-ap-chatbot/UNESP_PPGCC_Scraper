@@ -11,7 +11,16 @@ import os
 import warnings
 
 load_dotenv()
-client = QdrantClient(url=os.getenv("QDRANT_URL"))
+# client = QdrantClient(url=os.getenv("QDRANT_URL"),api_key=os.getenv("QDRANT_API_KEY"))
+client = QdrantClient(
+            url=os.getenv("QDRANT_URL"),
+            port=None,
+            host=None,
+            https=True,
+            timeout=60,
+            api_key=os.getenv("QDRANT_API_KEY")
+        )
+
 
 warnings.filterwarnings("ignore")
 

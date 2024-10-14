@@ -5,7 +5,7 @@ const fireworks = createOpenAI({
   apiKey: process.env.FIREWORKS_API_KEY ?? '',
   baseURL: 'https://api.fireworks.ai/inference/v1'
 })
-const assistantPrompt = `You are an assistant for answering questions about the graduate program in Computer Science at UNESP. 
+const assistantPrompt = `You are an assistant for answering questions about the pos-graduate program in Computer Science at UNESP. 
 Use the provided context information to answer the question. 
 If you don't know the answer, simply state that you don't know.
 Read all context carefully before answering.`
@@ -156,47 +156,47 @@ export const AI = createAI<AIState, UIState>({
   initialAIState: { chatId: nanoid(), messages: [] },
   onGetUIState: async () => {
     'use server'
+    return undefined
+    // const session = await auth()
 
-    const session = await auth()
+    // if (session && session.user) {
+    //   const aiState = getAIState() as Chat
 
-    if (session && session.user) {
-      const aiState = getAIState() as Chat
-
-      if (aiState) {
-        const uiState = getUIStateFromAIState(aiState)
-        return uiState
-      }
-    } else {
-      return
-    }
+    //   if (aiState) {
+    //     const uiState = getUIStateFromAIState(aiState)
+    //     return uiState
+    //   }
+    // } else {
+    //   return
+    // }
   },
   onSetAIState: async ({ state, done }) => {
     'use server'
 
     if (!done) return
+    return
+    // const session = await auth()
+    // if (!session || !session.user) return
 
-    const session = await auth()
-    if (!session || !session.user) return
+    // const { chatId, messages } = state
 
-    const { chatId, messages } = state
+    // const createdAt = new Date()
+    // const userId = session.user.id as string
+    // const path = `/chat/${chatId}`
 
-    const createdAt = new Date()
-    const userId = session.user.id as string
-    const path = `/chat/${chatId}`
+    // const firstMessageContent = messages[0].content as string
+    // const title = firstMessageContent.substring(0, 100)
 
-    const firstMessageContent = messages[0].content as string
-    const title = firstMessageContent.substring(0, 100)
+    // const chat: Chat = {
+    //   id: chatId,
+    //   title,
+    //   userId,
+    //   createdAt,
+    //   messages,
+    //   path
+    // }
 
-    const chat: Chat = {
-      id: chatId,
-      title,
-      userId,
-      createdAt,
-      messages,
-      path
-    }
-
-    await saveChat(chat)
+    // await saveChat(chat)
   }
 })
 

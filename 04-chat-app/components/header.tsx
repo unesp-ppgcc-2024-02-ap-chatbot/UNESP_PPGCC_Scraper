@@ -23,7 +23,7 @@ async function UserOrLogin() {
           <SidebarMobile>
             <ChatHistory userId={session.user.id} />
           </SidebarMobile>
-          <SidebarToggle />
+          {/* <SidebarToggle /> */}
         </>
       ) : (
         <Link href="/new" rel="nofollow">
@@ -32,7 +32,7 @@ async function UserOrLogin() {
         </Link>
       )}
       <div className="flex items-center">
-        <IconSeparator className="size-6 text-muted-foreground/50" />
+        {/* <IconSeparator className="size-6 text-muted-foreground/50" /> */}
         {session?.user ? (
           <UserMenu user={session.user} />
         ) : (

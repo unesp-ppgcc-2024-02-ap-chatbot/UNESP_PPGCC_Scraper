@@ -12,7 +12,14 @@ export default async function SignupPage() {
 
   return (
     <main className="flex flex-col p-4">
-      <SignupForm />
+      <h1 className="text-2xl font-bold">Sign Up</h1>
+      <p className="text-red-500">
+        Already have an account?{' '}
+        <a href="/login" className="text-blue-500">
+          Log in
+        </a>
+      </p>
+      {/* <SignupForm /> */}
     </main>
   )
 }

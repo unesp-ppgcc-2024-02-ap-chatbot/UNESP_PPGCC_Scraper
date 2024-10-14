@@ -43,3 +43,18 @@ Using Qdrant locally:
 docker-compose up -d
 ```
 
+### Push docker images
+
+```bash
+cd 04-chat-app
+docker build -t wagnerdev/chatapp-unesp:latest .
+docker push wagnerdev/chatapp-unesp:latest
+````
+
+```bash
+cd 03-search-api
+docker build -t wagnerdev/chatapi-unesp:latest .
+docker push wagnerdev/chatapi-unesp:latest
+```
+
+

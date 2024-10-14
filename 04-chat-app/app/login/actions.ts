@@ -7,8 +7,26 @@ import { z } from 'zod'
 import { kv } from '@vercel/kv'
 import { ResultCode } from '@/lib/utils'
 
+const allowedUsers = [
+  {
+    email: 'wagner@wagnercosta.com.br',
+    password: 'unesp-dl-sem2',
+    id: '1'
+  },
+  {
+    email: 'andre.schuck@unesp.br',
+    password: 'unesp-dl-sem2',
+    id: '2'
+  },
+  {
+    email: 'gabriel.souza-lima@unesp.br',
+    password: 'unesp-dl-sem2',
+    id: '3'
+  }
+]
+
 export async function getUser(email: string) {
-  const user = await kv.hgetall<User>(`user:${email}`)
+  const user = allowedUsers.find((user) => user.email === email)
   return user
 }
 

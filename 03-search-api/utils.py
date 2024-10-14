@@ -4,4 +4,6 @@ import os
 load_dotenv()
 
 def get_qdrant_client():
-    return QdrantClient(url=os.getenv("QDRANT_URL"))
+    print(os.getenv("QDRANT_URL"))
+    print(os.getenv("QDRANT_API_KEY"))
+    return QdrantClient(url=os.getenv("QDRANT_URL"),api_key=os.getenv("QDRANT_API_KEY"))
