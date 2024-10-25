@@ -115,10 +115,7 @@ class LinksSpider(Spider):
         yield SeleniumRequest(
             url=url,
             callback=self.parse,
-            wait_time=15,
-            wait_until=EC.visibility_of_element_located(
-                (By.CLASS_NAME, "wrapper-conteudo-tinymce")
-            ),
+            sleep_time=7,
         )
 
     def parse(
@@ -145,10 +142,7 @@ class LinksSpider(Spider):
             SeleniumRequest(
                 url=link.attrib["href"],
                 callback=self.parse,
-                wait_time=15,
-                wait_until=EC.visibility_of_element_located(
-                    (By.CLASS_NAME, "wrapper-conteudo-tinymce")
-                ),
+                sleep_time=7,
             )
             for link in response.css("a")
             if "href" in link.attrib
@@ -199,10 +193,7 @@ class PageContentSpider(BaseSpider):
             SeleniumRequest(
                 url=url,
                 callback=self.parse,
-                wait_time=15,
-                wait_until=EC.visibility_of_element_located(
-                    (By.CLASS_NAME, "wrapper-conteudo-tinymce")
-                ),
+                sleep_time=5
             )
             for url in self.start_urls
         )
@@ -270,11 +261,9 @@ class ExternalContentSpider(BaseSpider):
             SeleniumRequest(
                 url=url,
                 callback=self.parse,
-                wait_time=15,
-                wait_until=EC.visibility_of_element_located(
-                    (By.CLASS_NAME, "wrapper-conteudo-tinymce")
-                ),
+                sleep_time=5
             )
+
             for url in self.start_urls
         )
 
