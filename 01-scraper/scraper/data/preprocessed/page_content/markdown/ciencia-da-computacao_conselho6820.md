@@ -1,1 +1,18 @@
-**Os expedientes para as reuniões do Conselho devem estar na Seção Técnica de Pós\-Graduação da Unidade em que o docente está vinculado em até 5 dias antes das datas das reuniões:**OBS: As propostas de comissões de Qualificação e de Defesa devem ser enviadas para as Seções Técnicas de Pós\-graduação da unidade do aluno/orientador com, no mínimo, 40 dias de antecedência à data do exame conforme prazos previstos nas [Instruções Normativas 5 e 7](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/normas-e-regulamentos/) do Programa.**[Calendário de reuniões 2024](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-conselho-ppgccomp-2024-3.pdf "calendario-conselho-ppgccomp-2024-3.pdf")#### [Clique aqui para acessar as pautas e atas publicadas no sistema de Colegiados da Unesp](https://sistemas.unesp.br/colegiados/publico/agenda.listarAta.action?idColegiado=243)(a partir de 2024\)****[REUNIÕES ANTERIORES](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/conselho6820/reunioes-do-conselho/)**
+  
+(Mandato 2021\-2025\)
+
+O programa é coordenado de forma colegiada, através de um Conselho do qual participam quatro docentes titulares e um representante discente. O mandato dos membros do Conselho é de quatro anos para os representantes docentes e de um ano para o representante discente. Todos os membros titulares têm seu respectivo suplente. Dentre os membros titulares do programa é escolhido o Coordenador, cujo mandato coincide com o mandato do Conselho.
+
+
+
+| Titulares: | Coordenador: Prof. Dr. Danilo Medeiros Eler |
+| --- | --- |
+| Vice\- Coordenador: Prof. Dr. Daniel Carlos Guimarães Pedronette |
+| Prof. Dr. Carlos Roberto Valêncio |
+| Prof. Dr. Kelton Augusto Pontara Costa |
+| Suplentes: | Prof. Dr. Geraldo Francisco Donegá Zafalon |
+| Prof. Dr.  Alexandro José Baldassin |
+| Prof. Dr. Ronaldo Celso Messias Correia |
+| Prof. Dr. Aparecido Nilceu Marana |
+| Discentes | Titular: João Vitor Mariano Correia Suplente: Rafaella Silva Ferreira **Mandato: 05/08/2023 a 04/08/2024** |
+

@@ -1,35 +1,14 @@
   
   
-The graduate school is organized around two major research fields, namely Computer Systems, with topics more intensely related to the research about computers; and Scientific Computing, dealing with techniques to solve complex systems through computers. These areas comprise the following research lines:
+The Unesp's Graduate Program in Computer Science (PPGCC) was created in 2005, being accredited by the end of that year. The first class started in march 2006\. Nowadays it offers a Master of Science and PhD in Computer Science.
 
- 
+It offers studies in Applied Computing, which is divided in three research lines: Computing Systems, Information systems, and Computational Intelligence.
 
-Computer Systems   
-  
-**Computer Architecture and Distributed Systems**
+Our goal is to produce researchers in the lines offered by the program. This should be accomplished through the improvement in the students background, as well as their abilities in performing advanced research in computer science.
 
-Projects inside this field are concerned with topics such as hardware/software codesign, simulation and analysis of distributed and parallel systems, computer networks, computer security, performance analysis, cluster/grid/cloud computing and virtualization.
+An interesting characteristic in this program is its multicampus structure. There are advisors coming from different cities (Bauru, Presidente Prudente, Rio Claro and São José do Rio Preto). The research work for the MSc or PhD courses should be executed in the campus where the advisor is.
 
-  
- **Software Engineering and Databases**
+From a candidate it is expected a strong knowledge in computing. Students coming from Computer Science, Computer Engineering, or Information Technology majors are prefered, although good students from related majors who are interested in computer science are invited to enroll as well.
 
-In this field projects are aimed to the development of techniques and methodologies to support IT processes, systems development and test. It also involves research about information manipulation, including storage, retrieval and mining through innovative databases.
-
-  
- **Image Processing and Computer Vision**
-
-This research line comprise all levels of image processing and pattern recognition. Research in this field involves the application of neural networks and mathematical morphology. Projects inside this area include projects developing pure digital signal processing techniques as well as their application in specific problems such as medicine, biometry, character recognition, etc.
-
-  
- **Intelligent Systems**
-
-Work on this field comprises the development of techniques to solve problems by the use of artifical intelligence. The main methods here include approximate reasoning, multiagent systems and machine learning. Applications of such techniques to other areas are also researched.  
-  
-
-
-Scientific Computing   
-  
-**Computational Mathematics**
-
-Computational mathematics is concerned with the solving of complex problems through the use of computers. Here the studies involve comptational geometry (finite elements), simulation, gravitation models, criptographic models, and bioinspired computing.
+Please, visit the [faculty page](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pessoas/docentes/) to get more information about research lines and projects.
 

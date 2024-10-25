@@ -1,24 +1,14 @@
-### Objetivo Geral
 
-Este portfólio busca promover a integração dos PPGs da Unesp pelo oferecimento de disciplinas compartilhadas, nas diferentes áreas do conhecimento, ao seu corpo discente, regularmente matriculado nos cursos de mestrado e doutorado, acadêmicos e profissionais. Procura\-se, assim, estimular a interação entre os programas fortalecendo os laços acadêmicos e o senso de comunidade.
 
-### Formação Transversal
+| Divulgado em: | Situação do processo de seleção |  |
+| --- | --- | --- |
+| 02/01/2024 | [Edital nº 14/2023](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/edital-2024-doutorado-em-fluxo-continuo-ppgcc.pdf "edital-2024-doutorado-em-fluxo-continuo-ppgcc.pdf")[Modelo de Carta de recomendação](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ppgcc_carta-de-recomendacao2023-doutorado.doc "ppgcc_carta-de-recomendacao2023-doutorado.doc")[Modelo de Requerimento de inscrição](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/requerimento-inscricao-doutorado2023.docx "requerimento-inscricao-doutorado2023.docx")[Modelo de Requerimento de redução de taxa](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/solicitacao-de-reducao-de-taxa-de-inscricao.doc "solicitacao-de-reducao-de-taxa-de-inscricao.doc")[Tutorial de Acesso ao Sistema do Processo Seletivo](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/2022-tutorial-processo-seletivo-upload-sispg.pdf "2022-tutorial-processo-seletivo-upload-sispg.pdf")[Acompanhamento de Inscrições no Sistema de Pós\-graduação](https://sistemas.unesp.br/posgraduacao/publico/inscricao.login.action) (utilizar o número de inscrição recebido por e\-mail) |  |
 
-Esse conjunto de disciplinas tem como objetivo qualificar a formação de discentes da pós\-graduação estimulando a consciência social e o senso de responsabilidade em relação à comunidade e ao bem comum, e proporcionando uma formação conectada à realidade que permita articulação de seus conhecimentos em direção a um impacto social positivo nas suas pesquisas e nas suas carreiras.
+LINKS ÚTEIS:
 
-### Formação Específica
+[Corpo docente e campos de atuação](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pessoas/docentes/)
 
-Essas disciplinas de caráter formativo são um importante espaço para o diálogo no caso de pesquisas (teses e dissertações) de natureza interdisciplinar ou transdisciplinar e serão compartilhadas entre programas de mesma área de conhecimento, podendo também enriquecer a formação de estudantes de outras áreas, com conteúdos que não estão presentes no currículo de seus programas de origem.
+[Guia rápido sobre o curso de doutorado](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/guia-rapido/)
 
-### Mais informações e disciplinas a serem ofertadas acesse:
-
-**[Informações do Portfólio de Integração de Disciplinas da Pós\-Graduação.](https://www2.unesp.br/portal#!/propg/disciplinas-portfolio)**
-
-\*Haverá vagas limitadas para as disciplinas e critério de seleção será a ordem da inscrição.
-
-\*\*As disciplinas serão ofertadas 100% virtual 
-
-**O(a) estudante interessado(a) em cursar disciplina(s) do portfólio deverá realizar sua matrícula pelo SISPG, no menu Matrícula \> Matrícula Portfólio conforme calendário:**
-
-Consulte o tutorial de matrícula no portfólio **\[[clique aqui](https://www.fct.unesp.br/Home/Pos_Graduacao/CienciasCartograficas/orientacoes_para_realizacao_da_matricula---portfolio-de-disciplinas-1.pdf "orientacoes_para_realizacao_da_matricula---portfolio-de-disciplinas-1.pdf")].**
+[Processo seletivo de mestrado](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-de-mestrado-2025/)
 

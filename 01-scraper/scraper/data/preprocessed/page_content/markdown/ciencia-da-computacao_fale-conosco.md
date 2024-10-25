@@ -1,41 +1,44 @@
-As inscrições ocorrem duas vezes por ano, nas datas estabelecidas nos Calendários Escolares [**\[clique aqui]**.](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-do-programa/)
+Atualmente, a administração do Programa de Pós\-graduação em Ciência da Computação está sob a responsabilidade da Seção Técnica de Pós\-graduação da Faculdade de Ciências e Tecnologia de Presidente Prudente (FCT/Unesp).
 
-  
+**Faculdade de Ciência e Tecnologia – FCT/UNESP**
 
+Campus de Presidente Prudente \- Seção Técnica de Pós\-Graduação
 
-A aceitação de aluno especial no PPGCC está prevista no Artigo 39 do **[Regulamento do Programa](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/portarias-66-2021-regulamento-computacao.pdf)**, conforme segue:
+Rua Roberto Simonsen, 305 Centro Universitário
 
-Artigo 39 \- Na hipótese da existência de vagas em disciplinas e mediante autorização do conselho, o programa admitirá alunos especiais conforme previsto no RGPG da Unesp, com processos definidos em instrução normativa do programa.
+CEP: 19060\-900 – Presidente Prudente \- SP Tel: (18\) 3229\-5316
 
-Parágrafo único \- Alunos da graduação da Unesp poderão ser admitidos para matrícula em disciplinas no programa, na condição de alunos especiais mediante aprovação do conselho do programa, ouvido o responsável pela disciplina.
+E\-mail: [ppgccomputacao.fct@unesp.br](mailto:ppgccomputacao.fct@unesp.br)
 
-INSTRUÇÃO NORMATIVA Nº 06 DO PROGRAMA DE PÓS\-GRADUAÇÃO EM CIÊNCIA DA COMPUTAÇÃO    
-*Estabelece critérios para matrícula de alunos especiais em disciplinas*
+**Faculdade de Ciências \- FC/UNESP**
 
-*(...)*  
-*Artigo 1º \- Na hipótese da existência de vagas e mediante autorização do Conselho, ouvido o responsável pela disciplina, poderão ser aceitas matrículas de alunos da graduação e portadores de diploma de nível superior, na condição de alunos especiais*
+Campus de Bauru \- Seção Técnica de Pós\-Graduação
 
-*(...)*  
-***§ 2º \- O aluno especial poderá ser aceito em até duas disciplinas por semestre*.**   
-  
+Avenida Engenheiro Edmundo Carrijo Coube, 14\-01
 
+Bairro Vargem Limpa
 
-  
+CEP 17033\-360 \- Bauru/SP Tel: (14\) 3103\-6077
 
+E\-mail: [stpg.fc@unesp.br](mailto:stpg.fc@unesp.br)
 
-Para se inscrever:
+**Instituto de Geociências e Ciências Exatas \- IGCE/UNESP**
 
-No ato da inscrição o candidato deverá realizar o cadastro online \[[clique aqui](https://sistemas.unesp.br/posgraduacao/publico/inscricao.principal.action?unidade=25&tipo=ESPECIAL)] e fazer o upload no próprio sistema dos documentos conforme instruções abaixo.
+Campus de Rio Claro \- Seção Técnica de Pós\-Graduação
 
-[Instruções com imagens](https://www.fct.unesp.br/Home/Pos_Graduacao/CienciasCartograficas/upload-de-documentos---aluno-especial.pdf "upload-de-documentos---aluno-especial.pdf").
+Av. 24A, 1515 \- Bela Vista \- Cx. Postal 178 CEP: 13506\-900 \- Rio Claro (SP)
 
-* Obs. Para consultar as disciplinas que serão oferecidas no semestre que pretender cursarvide Horário das Disciplinas no menu acima
-* Ao concluir a Inscrição online será mostrada na tela de confirmação a solicitação de upload de documentos. Para fazer o upload, será necessário realizar o login no sistema com os dados mostrados nesta mesma tela. O botão para login encontra\-se no menu esquerdo e acima;
-* Após efetuar o login, o candidato visualizará os dados de inscrição e ao final da página estarão listados os documentos que deverão ser incluídos;
-* Currículo Lattes.
-* RG, CPF, Título de Eleitor, Reservista, e
-* Diploma ou certificado de conclusão da Graduação, Histórico Escolar da Graduação.
-* Diploma e Histórico Escolar do Mestrado (para se inscrever como aluno especial no Doutorado)
+Tel: (19\) 3526\-9149
 
-Não deverão ser entregues documentos impressos na Seção Técnica de Pós\-graduação.
+E\-mail: [stpgigce.rc@unesp.br](mailto:stpgigce.rc@unesp.br)
+
+**Instituto de Biociências, Letras e Ciências Exatas – IBILCE/UNESP**
+
+Campus de São José do Rio Preto \- Seção Técnica de Pós\-Graduação
+
+R: Cristóvão Colombo, 2265, Jardim Nazareth, São José do Rio Preto, SP, CEP: 15054\-000\.
+
+Telefone: (17\) 3221\-2444
+
+E\-mail: [pos.ibilce@unesp.br](mailto:pos.ibilce@unesp.br)
 

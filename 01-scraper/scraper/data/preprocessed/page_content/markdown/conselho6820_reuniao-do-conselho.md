@@ -1,8 +1,1 @@
-### Informações sobre os Egressos
-
-#### [Egressos de Mestrado](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/egressos_mestrado.pdf "egressos_mestrado.pdf")
-
-#### [Egressos de Doutorado](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/egressos_doutorado.pdf "egressos_doutorado.pdf")
-
-#### [Lista de teses e dissertações defendidas](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/unesp_ppgcc_dissertacoes_teses_defendidas.pdf "unesp_ppgcc_dissertacoes_teses_defendidas.pdf")
-
+**Os expedientes para as reuniões do Conselho devem estar na Seção Técnica de Pós\-Graduação da Unidade em que o docente está vinculado em até 5 dias antes das datas das reuniões:**OBS: As propostas de comissões de Qualificação e de Defesa devem ser enviadas para as Seções Técnicas de Pós\-graduação da unidade do aluno/orientador com, no mínimo, 40 dias de antecedência à data do exame conforme prazos previstos nas [Instruções Normativas 5 e 7](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/normas-e-regulamentos/) do Programa.**[Calendário de reuniões 2024](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-conselho-ppgccomp-2024-3.pdf "calendario-conselho-ppgccomp-2024-3.pdf")#### [Clique aqui para acessar as pautas e atas publicadas no sistema de Colegiados da Unesp](https://sistemas.unesp.br/colegiados/publico/agenda.listarAta.action?idColegiado=243)(a partir de 2024\)****[REUNIÕES ANTERIORES](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/conselho6820/reunioes-do-conselho/)**

@@ -1,20 +1,32 @@
-**[Calendário 2024](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-escolar---pos-graduacao---2024-6.pdf "calendario-escolar---pos-graduacao---2024-6.pdf")**
+#### Leia atentamente:
 
-[**Calendário 2023**](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ppgccomputacao-calendario-escolar---pos-graduacao---2023.pdf "ppgccomputacao-calendario-escolar---pos-graduacao---2023.pdf")
+**Para ingressantes a partir de 2019 e  que não fizeram opção pelo Regulamento de 2021:**
 
-**[Calendário 2022](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario_2022_computacao.pdf "calendario_2022_computacao.pdf")**
+Leia a [Instrução Normativa nº 05/2019](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-5---exame-geral-de-qualificacao-alterada-em-27nov2020.pdf "in-5---exame-geral-de-qualificacao-alterada-em-27nov2020.pdf")
 
-**[Calendário 2021](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-2021---computacao-aprov-27nov2020.pdf "calendario-2021---computacao-aprov-27nov2020.pdf")**
+**Para ingressantes a partir de 13\-5\-2021 e  aqueles que fizeram opção pelo Regulamento de 2021:**
 
-**[Calendário 2020](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/alteracao-do-calendario-2020---computacao.pdf "alteracao-do-calendario-2020---computacao.pdf")**(alterado em 23/10/2020\)
+Leia a [Instrução Normativa n° 05/2021](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-5---exame-geral-de-qualificacao---portaria-66.pdf "in-5---exame-geral-de-qualificacao---portaria-66.pdf")
 
-**[Calendário 2019](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-2019---computacao-aprov-26nov2018.pdf "calendario-2019---computacao-aprov-26nov2018.pdf")**
+*\- O aluno deverá ter integralizado os créditos referentes às disciplinas conforme exigência do Regulamento do Programa.*
 
-**[Calendário 2018](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-2018---computacao-aprovado.pdf "calendario-2018---computacao-aprovado.pdf")**
+Providenciar:
 
-**[Calendário 2017](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-2017---computacao-aprovado.pdf "calendario-2017---computacao-aprovado.pdf")**
+\- Ofício de indicação da banca de [Qualificação Mestrado](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/solicitacao-qualificacao-mestrado-computacao-modelo-1.doc "solicitacao-qualificacao-mestrado-computacao-modelo-1.doc") devidamente assinado pelo orientador (a);
 
-**[Calendário 2016](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-2016---computacao-aprovado-em-21set2015.pdf "calendario-2016---computacao-aprovado-em-21set2015.pdf")**
+\- Ofício de indicação da banca de [Qualificação Doutorado](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/solicitacao-qualificacao-doutorado-computacao-modelo.doc "solicitacao-qualificacao-doutorado-computacao-modelo.doc") devidamente assinado pelo orientador (a);
 
-**[Calendário 2015](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/proposta-de-calendario-2015---computacao.pdf "proposta-de-calendario-2015---computacao.pdf")**
+Obs.: O aluno deverá disponibilizar o texto referente ao seu projeto aos membros da Comissão Examinadora e redigido conforme modelo proposto pelo Conselho do Programa, com antecedência mínima de, pelo menos, trinta dias da data prevista para a realização do exame.
+
+**Obs: As solicitações devem ser encaminhadas à Seção Técnica de Pós\-graduação da Unidade em que está lotado seu orientador.**
+
+**Contatos:**
+
+FCT/Presidente Prudente \- ppgccomputacao.fct@unesp.br
+
+FC/Bauru \- [stpg.fc@unesp.br](mailto:stpg.fc@unesp.br)
+
+IBILCE \- pos.ibilce@unesp.br
+
+IGCE/Rio Claro \- [stpgigce.rc@unesp.br](mailto:stpgigce.rc@unesp.br)
 
