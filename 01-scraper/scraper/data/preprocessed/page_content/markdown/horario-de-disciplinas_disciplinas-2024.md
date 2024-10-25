@@ -1,1 +1,12 @@
-**Os expedientes para as reuniões do Conselho devem estar na Seção Técnica de Pós\-Graduação da Unidade em que o docente está vinculado em até 5 dias antes das datas das reuniões:**OBS: As propostas de comissões de Qualificação e de Defesa devem ser enviadas para as Seções Técnicas de Pós\-graduação da unidade do aluno/orientador com, no mínimo, 40 dias de antecedência à data do exame conforme prazos previstos nas [Instruções Normativas 5 e 7](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/normas-e-regulamentos/) do Programa.**[Calendário de reuniões 2024](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-conselho-ppgccomp-2024-3.pdf "calendario-conselho-ppgccomp-2024-3.pdf")#### [Clique aqui para acessar as pautas e atas publicadas no sistema de Colegiados da Unesp](https://sistemas.unesp.br/colegiados/publico/agenda.listarAta.action?idColegiado=243)(a partir de 2024\)****[REUNIÕES ANTERIORES](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/conselho6820/reunioes-do-conselho/)**
+
+..
+
+
+#### Programa Interunidades entre a Faculdade de Ciências \- Câmpus de Bauru, Faculdade de Ciências e Tecnologia \- Câmpus de Presidente Prudente, Instituto de Geociências e Ciências Exatas \- Câmpus de Rio Claro e Instituto de Biociências, Letras e Ciências Exatas \- Câmpus de São José do Rio Preto
+
+
+Conceito CAPES:   
+Mestrado: conceito 4  
+Doutorado conceito 4
+
+ 

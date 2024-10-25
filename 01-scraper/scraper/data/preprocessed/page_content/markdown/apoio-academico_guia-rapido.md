@@ -1,91 +1,121 @@
-**[Regimento Geral da Pós\-Graduação da Unesp](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/regimento_geral_pos_graduacao_rgpg.pdf "regimento_geral_pos_graduacao_rgpg.pdf") \- Portaria Unesp 22/2019**
+**Homologação do Título e Expedição de Diplomas**  
+**Programa de Pós\-graduação em Ciência da Computação**
+
+**(Apenas para alunos com orientadores em Presidente Prudente \- FCT)**
+
+  
+
+
+**Após a defesa, o aluno deve preencher o link abaixo com os documentos descritos nas orientações abaixo, exceto o item 1, no qual o aluno enviará o comprovante de aceite emitido pelo Repositório Unesp.**
+
+Informamos que conforme comunicado Coordenadoria de Tecnologia da Informação \- CTInf, em virtude das novas políticas de uso do Google Inc. para os serviços disponibilizados às universidades  a partir de 5 de janeiro de 2024\.Haverá a redução  de espaço da nuvem "Google Workspace" (Google Gmail, Drive e Fotos) sendo  para os**alunos egressos será reduzido para  1 GB**, desta forma pedimos que caso tenham interesse em manter os arquivos da nuvem façam o backup.
+
+**Link para envio dos documentos para homologação e expedição de diplomas [(CLIQUE AQUI)](https://forms.gle/gzqU8QQa9QUiUZWB7)**
 
 
 
 ---
 
-**[Portaria Unesp \-66, publicado em 13\-5\-2021](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/portarias-66-2021-regulamento-computacao.pdf "portarias-66-2021-regulamento-computacao.pdf") \- novo Regulamento para ingressantes a partir de 13\-5\-2021 e alunos que fizerem opção por este regulamento**
+01 – Um exemplar da versão definitiva da Dissertação/Tese 
 
-**Instruções Normativas para ingressantes a partir de 13\-5\-2021**
+Durante a suspensão de atividades presenciais devido as medidas de contenção da pandemia, conforme autorização da PROPG, o egresso fica desobrigado a entregar o exemplar impresso da dissertação ou tese.
 
-[Instrução Normativa 1 \- Obrigações e prazos dos alunos do Programa](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-1---obrigacoes-e-prazos-dos-alunos.pdf "in-1---obrigacoes-e-prazos-dos-alunos.pdf")
+Obs: Lembrando que na versão definitiva deverá conter:
 
-[Instrução Normativa 2 \- Credenciamento, Descredenciamento e Recredenciamento de Docentes](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-2-credenciamento-descredenc-e-recredenciamento---portaria-66---22.10.2021.pdf "in-2-credenciamento-descredenc-e-recredenciamento---portaria-66---22.10.2021.pdf")
+* · "Ficha Catalográfica" (Informações na Biblioteca da FCT)
+* · "Banca Examinadora” (esta foi entregue para você depois da defesa),
 
-(Obs: Para não aumentar a quantidade de docentes colaboradores no último ano do quadriênio de avaliação da CAPES,  **novos credenciamentos deverão ser enviados para serem analisados somente a partir de setembro/2024** e, caso aprovado, o credenciamento será para o ano de 2025\.)
+contendo a assinatura dos membros da Banca.
 
-[Anexo da Instrução Normativa 2](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-2-credenciamento-descredenc-e-recredenciamento---anexo---formulario---22.10.2021.docx "in-2-credenciamento-descredenc-e-recredenciamento---anexo---formulario---22.10.2021.docx")
+* · Título, Palavras\-Chave e Resumo em Português e Inglês.
+* É obrigatório, conforme Portaria CAPES 206/2018 ([link](https://www.fct.unesp.br/Home/Pos_Graduacao/CienciasCartograficas/capes-portaria206.pdf "capes-portaria206.pdf")), citar nos agradecimentos o apoio recebido pela CAPES com as expressões constantes no artigo 3° da referida portaria.
 
-[Instrução Normativa 3 \- Aproveitamento de atividades complementares](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-3-creditos-em-atividades-complementares-portaria-66-30.06.2023.pdf "in-3-creditos-em-atividades-complementares-portaria-66-30.06.2023.pdf")
+  
 
-[Instrução Normativa 4 \- Proficiência em Língua Estrangeira  \- (atualizado 01\-03\-2024\)](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-4---comprovacao-de-proficiencia-em-ingles---atualizado-01-03-2024.pdf "in-4---comprovacao-de-proficiencia-em-ingles---atualizado-01-03-2024.pdf")
-
-[Instrução Normativa 5 \- Exame de Qualificação](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-5---exame-geral-de-qualificacao---portaria-66.pdf "in-5---exame-geral-de-qualificacao---portaria-66.pdf")
-
-[Instrução Normativa 6 \- Matrícula de alunos especiais](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-6---matricula-de-alunos-especiais---portaria-66.pdf "in-6---matricula-de-alunos-especiais---portaria-66.pdf")
-
-[Instrução Normativa 7 \- Defesas de Dissertações e Teses](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-7-normas-para-defesas-de-dissertacao-etese---atualizada-em-22.10.2021-ok.pdf "in-7-normas-para-defesas-de-dissertacao-etese---atualizada-em-22.10.2021-ok.pdf")
-
-[Instrução Normativa 8 \- Concessão de licenças médica, maternidade, paternidade e adoção](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-8---licenca-medica-maternidade-paternidade-e-adocao---portaria-66.pdf "in-8---licenca-medica-maternidade-paternidade-e-adocao---portaria-66.pdf") ([Requerimento](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/modelo-de-solicitacao-de-licencas.pdf))
-
-[Instrução Normativa 9 \- Norma para oferecimento de disciplinas pelos Docentes](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-09-oferecimento-de-disciplinas.pdf "in-09-oferecimento-de-disciplinas.pdf")
-
-[Instrução Normativa 10 \- Critérios para atribuição de bolsas para alunos (atualizado 15\-12\-2023\)](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-15.12.2023.pdf "in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-15.12.2023.pdf")
-
-[Instrução Normativa 11 \- Readmissão de alunos](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-11-criterios-para-solicitacao-de-readmissao---22.10.2021.pdf "in-11-criterios-para-solicitacao-de-readmissao---22.10.2021.pdf")
-
-[Instrução Normativa  12 Ensino Hibrido](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-12-ensino-hibrido---portaria-74-2022-atualizada.pdf "in-12-ensino-hibrido---portaria-74-2022-atualizada.pdf")
 
 
 
 ---
 
-**[Resolução Unesp\-4, de 14\-1\-2019](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/regulamento-ppgcc-resolucoes-04-2019.pdf "regulamento-ppgcc-resolucoes-04-2019.pdf") \- Regulamento para ingressantes a partir de 2019\.**
+ 02 – Declaração ou e\-mail do orientador confirmando que as sugestões/correções sugeridas pela Comissão Examinadora foram efetuadas.
 
-**Instruções Normativas para ingressantes a partir de 2019**
-
-[Instrução Normativa 1 \- Obrigações e prazos dos alunos do Programa](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/proposta-de-in-1-obrigacoes-e-prazos-dos-alunos.pdf "proposta-de-in-1-obrigacoes-e-prazos-dos-alunos.pdf")
-
-[Instrução Normativa 2 \- Credenciamento, Descredenciamento e Recredenciamento de Docentes](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-02-credenciamento-descredenc-e-recredenciamento-alterada-em-05-de-marco-2021.pdf "in-02-credenciamento-descredenc-e-recredenciamento-alterada-em-05-de-marco-2021.pdf") (alterada em 05/03/2021\)
-
-[Instrução Normativa 3 \- Aproveitamento de atividades complementares](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-3-creditos-em-atividades-complementares---portaria-66okok.pdf "in-3-creditos-em-atividades-complementares---portaria-66okok.pdf")
-
-[Instrução Normativa 4 \- Proficiência em Língua Estrangeira](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-4----proficiencia-aprovada-em-abril-de-2020-alterada-em-27nov2020.pdf "in-4----proficiencia-aprovada-em-abril-de-2020-alterada-em-27nov2020.pdf") (alterada em 27/11/2020\)
-
-[Instrução Normativa 5 \- Exame de Qualificação](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-5---exame-geral-de-qualificacao-alterada-em-27nov2020.pdf "in-5---exame-geral-de-qualificacao-alterada-em-27nov2020.pdf") (alterada em 27/11/2020\)
-
-[Instrução Normativa 6 \- Matrícula de alunos especiais](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-6---matricula-de-alunos-especiais.pdf "in-6---matricula-de-alunos-especiais.pdf")
-
-[Instrução Normativa 7 \- Defesas de Dissertações e Teses](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-7-normas-para-defesas-de-dissertacao-etese-alterada-em-30.07.2021-regulamento-2019.pdf "in-7-normas-para-defesas-de-dissertacao-etese-alterada-em-30.07.2021-regulamento-2019.pdf")(alterada em 30/07/2021\)
-
-[Instrução Normativa 8 \- Concessão de licenças médica, maternidade, paternidade e adoção](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-8---licenca-medica-maternidade-paternidade-e-adocao.pdf "in-8---licenca-medica-maternidade-paternidade-e-adocao.pdf") ([Requerimento e IN 01/2019 \- PROPG](https://www.ibilce.unesp.br/#!/pos-graduacao/formularios-e-documentos/))
-
-[Instrução Normativa 9 \- Norma para oferecimento de disciplinas pelos Docentes](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-09-oferecimento-de-disciplinas-aprov-05-de-marco-de-2021.pdf "in-09-oferecimento-de-disciplinas-aprov-05-de-marco-de-2021.pdf")
-
-[Instrução Normativa 10 \- Critérios para atribuição de bolsas para alunos](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-em-30.07.2021-regulamento-2019.pdf "in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-em-30.07.2021-regulamento-2019.pdf") 
+ 
 
 
 
 ---
 
-**[Resolução Unesp\-30, de 1º\-3\-2012](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/regulamento-ciencia-da-computacao.pdf "regulamento-ciencia-da-computacao.pdf") \- Regulamento para ingressantes até 2018\.**
-
-**Instruções Normativas do Regulamento de 2018**
-
-[Instrução Normativa 1 – Atividades Complementares](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/1n.pdf "1n.pdf")
-
-[Instrução Normativa 2 \- Proficiência em Língua Estrangeira](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-2-proficiencia-em-lingua-estrangeira-06jun2011-alterada-em-24marco2014-e--15junho2015.pdf "in-2-proficiencia-em-lingua-estrangeira-06jun2011-alterada-em-24marco2014-e--15junho2015.pdf")  
+03 – Realizar o Autoarquivamento do pdf da dissertação/tese no site repositório.unesp.br, o email com o aceite da submissão; ( [tutorial](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/tutorial-para-o-autoarquivamento-de-dissertacoes-e-teses-versao-1.0-set-2023.pdf "tutorial-para-o-autoarquivamento-de-dissertacoes-e-teses-versao-1.0-set-2023.pdf") )
 
 
-[Instrução Normativa 3](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/instrucao-normativa-3-exame-de-qualificacao-revisada-em-agosto_2013.pdf "instrucao-normativa-3-exame-de-qualificacao-revisada-em-agosto_2013.pdf") [\- Exame de Qualificação](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/instrucao-normativa-3-exame-de-qualificacao-revisada-em-agosto_2013.pdf)
 
-[Instrução Normativa 4 \- Credenciamento e Descredenciamento Docente](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/revisao-_-instrucao-normativa-4-credenciamento-e-descredenciamento-docente-06_06_2011.pdf "revisao-_-instrucao-normativa-4-credenciamento-e-descredenciamento-docente-06_06_2011.pdf")([Formulário para solicitação](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/formulariocredenciamento-anexo-ao-in-4.doc "formulariocredenciamento-anexo-ao-in-4.doc"))
+---
 
-[Instrução Normativa 5 \- Número de Orientandos por Orientador](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/instrucao-normativa-5-numero-de-orientados-por-orientador_09_2016-alterada-10outubro2016.pdf "instrucao-normativa-5-numero-de-orientados-por-orientador_09_2016-alterada-10outubro2016.pdf")
+04 – Junto a versão definitiva da Dissertação de Mestrado/Tese de Doutorado o aluno deverá também apresentar cópia da primeira página do Currículo Lattes que comprove sua atualização até aquela data.
 
-[Instrução Normativa 6 \- Composição das Comissões Examinadoras das dissertações de Mestrado](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-n-06--composicao-comiss_exam-17ago15-1.pdf "in-n-06--composicao-comiss_exam-17ago15-1.pdf")
 
-[Instrução Normativa 7 \- Define, em consonância com o Regulamento do Programa de Pós\-Graduação em Ciência da Computação (PPGCC) da UNESP, os veículos aceitos para submissão de artigos científicos para publicação antes da defesa](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/instrucao-normativa-7---submissao-de-artigo-antes-da-defesa.pdf "instrucao-normativa-7---submissao-de-artigo-antes-da-defesa.pdf"). 
 
-[Instrução Normativa 8 \- Critérios para atribuição de bolsas para alunos](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in8---criterios-para-atribuicao-de-bolsas-ppgcc-de-06marco2017.pdf "in8---criterios-para-atribuicao-de-bolsas-ppgcc-de-06marco2017.pdf")
+---
+
+Observações Importantes:
+
+* · Atualizar o Currículo Lattes junto ao CNPq.
+* · Realizar o autoarquivamento dentro do prazo de até 45 dias após a defesa. Após esse prazo o sistema será fechado e só será possível realizar após autorização do conselho e comissão da biblioteca.
+* · Após realizar a submissão do pdf no repositório, a biblioteca terá prazo de 10 dias úteis para encaminhar o aceite para o e\-mail do aluno. O título não será homologado sem a apresentação do que se pede neste formulário, principalmente sem a entrega, para a seção técnica de pós\-graduação, do aceite do autoarquivamento e versão definitiva do exemplar final.
+* · Bolsistas Fapesp deverão nos agradecimentos do exemplar final e arquivo digital, citar essa agência de fomento e número de processo e seguir as demais instruções da mesma, como por exemplo a citação de declaração de responsabilidade (verificar no site da [Fapesp](http://www.fapesp.br/190)).
+
+PEDIDO DE EXPEDIÇÃO DE DIPLOMAS :
+
+Cópia Autenticada dos seguintes documentos: 1\) RG, 2\) Diploma da graduação, 3\) Certidão de nascimento ou casamento.
+
+IMPORTANTE: a retirada do diploma é autorizada SOMENTE ao próprio diplomado ou a procurador indicado em procuração simples com firma reconhecida em cartório ([modelo da procuração](https://www.fct.unesp.br/Home/Pos_Graduacao/Geografia/modelo_de_procuracao_para_retirada_de_diploma-2.doc "modelo_de_procuracao_para_retirada_de_diploma-2.doc")).
+
+Obs:
+
+**A versão final corrigida da dissertação/tese e demais documentos**  
+**necessários para preenchimento do relatório Coleta CAPES e homologação do título devem**  
+**ser encaminhados para a Seção Técnica de Pós\-graduação da unidade ao qual o aluno/**  
+**orientador estiverem vinculados, conforme instruções de cada STPG:**
+
+  
+**FC/ Bauru: seguir as orientações do link:**  
+[https://www.fc.unesp.br/\#!/administracao/area\-academica/secao\-posgraduacao/entrega\-versao\-final/](https://www.fc.unesp.br/#!/administracao/area-academica/secao-pos-graduacao/entrega-de-versao-final/)
+
+**IBILCE/SJRP: no prazo de 30 dias após a defesa conforme instruções constantes do Manual**  
+**para concluintes disponível na página da Seção Técnica de Pós\-graduação em**
+
+[https://www.ibilce.unesp.br/pos\-graduacao/manual\-para\-concluintes/](pos-graduacao/manual-para-concluintes/)
+
+  
+**IGCE/RC: contactar a Seção Técnica de Pós\-graduação – STPG:**  
+**Campus de São José do Rio Preto****INSTITUTO DE BIOCIÊNCIAS, LETRAS E CIÊNCIAS EXATAS – STPG**  
+Rua Cristóvão Colombo, 2265, Jardim Nazareth, CEP. 15054\-000, São José do Rio Preto/SP Tel.  
+(0xx17\) 3221\-2444 Fax. (17\) 3221\-2496 e\-mail: pos@ibilce.unesp.br / www.ibilce.unesp.br  
+E\-mail: [stpgigce.rc@unesp.br](mailto:stpgigce.rc@unesp.br)  
+[https://igce.rc.unesp.br/index.php\#!/instituicao/diretoria\-tecnica\-academica/secao\-tecnica\-depos\-graduacao/](https://igce.rc.unesp.br/index.php#!/instituicao/diretoria-tecnica-academica/secao-tecnica-depos-graduacao/)   
+
+
+
+
+---
+
+#### DIPLOMA DIGITAL
+
+Informamos que O Diploma Digital da pós\-graduação foi implantado em 07/08/2024. Desta forma, todas as **solicitações de emissão e registro encaminhadas pelo até 06/08/2024**terão seus diplomas emitidos e registrados no formato físico.
+
+As solicitações encaminhadas **após essa data**, terão seus diplomas emitidos e registrados no formato digital.
+
+Quando os diplomas digitais estiverem disponíveis, o discente receberá um e\-mail (no e\-mail utilizado no sistema de acessos Unesp) com o seguinte assunto:  Notificação de Diploma Digital disponível, através do qual o diploma digital poderá ser acessado.
+
+RESOLUÇÃO UNESP Nº 50, DE 29 DE JULHO DE 2024 \- Dispõe sobre a emissão e o registro de diploma de pós\-graduação stricto sensu por meio digital no âmbito da Unesp:  
+[https://sistemas.unesp.br/legislacao\-web/?base\=R\&numero\=50\&ano\=2024\&dataDocumento\=29/07/2024](https://sistemas.unesp.br/legislacao-web/?base=R&numero=50&ano=2024&dataDocumento=29/07/2024)
+
+Sobre o diploma digital:  
+[https://www2\.unesp.br/portal\#!/secgeral/diplomas/fluxo\-\-\-diploma\-digital/](https://www2.unesp.br/portal#!/secgeral/diplomas/fluxo---diploma-digital/)
+
+Link – autenticidade do diploma digital:  
+[https://www2\.unesp.br/portal\#!/secgeral/diplomas/autenticidade\-\-\-diploma\-digital/](https://www2.unesp.br/portal#!/secgeral/diplomas/autenticidade---diploma-digital/)
+
+  
+
 

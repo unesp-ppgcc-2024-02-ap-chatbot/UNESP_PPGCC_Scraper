@@ -1,7 +1,31 @@
+#### Acervo de dissertações e teses defendidas
+
+Na tabela a seguir, encontram\-se disponíveis os links que direcionam aos trabalhos defendidos pelos egressos do Programa de Pós\-Graduação em Ciência da Computação, de acordo com o ano de defesa. Clique no ano correspondente ao tipo de trabalho de seu interesse (dissertação ou tese) para acessar o rol de trabalhos defendidos no ano escolhido.
+
+**Dissertações e teses defendidas a partir de 2021**
+
+#### [Dissertações](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/dissertacoes-defendidas/dissertacoes/)
+
+#### [Teses](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/dissertacoes-defendidas/teses/)
+
+**Dissertações anteriores**
 
 
-| You may find some related sites through the links below: |
-| --- |
-|  |
-| | [São Paulo State University \- UNESP](http://www.unesp.br) | | --- | | [Institute of Biosciences, Letters and Exact Sciences](undefined/) \- São José do Rio Preto campus | | [Computer Science and Statistics Dept.](http://www.dcce.ibilce.unesp.br) \- DCCE/IBILCE \- Rio Preto campus | | [Computing Dept.](http://www.dco.fc.unesp.br) \- DCo/FC \- Bauru campus | | [Computing, Applied Mathematics and Statistics Dept.](http://black.rc.unesp.br) \- Demac/IGCE \- Rio Claro campus | | [FAPESP](http://www.fapesp.br) \- São Paulo State Research Funding Agency | | [CAPES](http://www.capes.gov.br) \- Brazilian Coordination for Higher Level Educators Formation | | [SBC](http://www.sbc.org.br) \- Brazilian Computer Society | | [POSCOMP](http://www.sbc.org.br/poscomp) \- National Examination Test for Admission in Computer Science Graduate Programs | | [CNPq](http://www.cnpq.br) \- Conselho Nacional de Desenvolvimento Científico e Tecnológico | |
+
+| **Dissertação** | Tese |
+| --- | --- |
+| **[2020](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2019](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2018](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2017](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2016](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2015](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2014](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2013](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2012](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2011](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2010](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2009](http://hdl.handle.net/11449/77111)** | **N/A** |
+| **[2008](http://hdl.handle.net/11449/77111)** | **N/A** |
+| \*\*Tendo em vista que o curso de doutorado do Programa de Pós\-Graduação em Ciência da Computação foi criado em 2018, começando a funcionar em 2019, a previsão é de que suas primeiras teses sejam divulgadas em 2022\. | |
 

@@ -89,3 +89,7 @@
 
 [Instrução Normativa 8 \- Critérios para atribuição de bolsas para alunos](https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in8---criterios-para-atribuicao-de-bolsas-ppgcc-de-06marco2017.pdf "in8---criterios-para-atribuicao-de-bolsas-ppgcc-de-06marco2017.pdf")
 
+LINKS ÚTEIS
+
+[Scopus](https://www.scopus.com/sources)
+
