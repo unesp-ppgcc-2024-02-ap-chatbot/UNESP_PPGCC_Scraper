@@ -10,11 +10,12 @@ services:
   #     - python-api
 
   python-api:
-    build: ./03-search-api
+    build: ./05-search-api
     ports:
       - "8055:8055"  # Expose Python API locally, not accessible outside
     environment:
       - QDRANT_URL=http://qdrant:6333
+      - QDRANT_COLLECTION_NAME=${QDRANT_COLLECTION_NAME}
       - QDRANT_API_KEY=${QDRANT_API_KEY}  # Set Qdrant password
     depends_on:
       - qdrant
@@ -27,13 +28,6 @@ services:
       - qdrant_storage:/qdrant/storage
     environment:
       - QDRANT__SERVICE__API_KEY=${QDRANT_API_KEY}  # Set Qdrant password
-
-  redis:
-    image: redis:latest
-    ports:
-      - "6379:6379"
-    volumes:
-      - redis_storage:/redis/storage
 
 volumes:
   qdrant_storage:

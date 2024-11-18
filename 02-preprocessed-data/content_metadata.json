@@ -1,0 +1,2029 @@
+[
+    {
+        "id": "ext_001",
+        "markdown_file_name": "external_content/tutorial-para-o-autoarquivamento-de-dissertacoes-e-teses-versao-1.0-set-2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/homlogacao/",
+        "name": "tutorial-para-o-autoarquivamento-de-dissertacoes-e-teses-versao-1.0-set-2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/tutorial-para-o-autoarquivamento-de-dissertacoes-e-teses-versao-1.0-set-2023.pdf"
+    },
+    {
+        "id": "ext_002",
+        "markdown_file_name": "external_content/regimento_geral_pos_graduacao_rgpg.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "regimento_geral_pos_graduacao_rgpg.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/regimento_geral_pos_graduacao_rgpg.pdf"
+    },
+    {
+        "id": "ext_003",
+        "markdown_file_name": "external_content/in-5---exame-geral-de-qualificacao-alterada-em-27nov2020.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/qualificacao/",
+        "name": "in-5---exame-geral-de-qualificacao-alterada-em-27nov2020.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-5---exame-geral-de-qualificacao-alterada-em-27nov2020.pdf"
+    },
+    {
+        "id": "ext_004",
+        "markdown_file_name": "external_content/requerimento_geral-novo-2022_.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/requerimento/",
+        "name": "requerimento_geral-novo-2022_.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/requerimento_geral-novo-2022_.doc"
+    },
+    {
+        "id": "ext_005",
+        "markdown_file_name": "external_content/calendario-escolar---pos-graduacao---2024-6.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-do-programa/",
+        "name": "calendario-escolar---pos-graduacao---2024-6.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-escolar---pos-graduacao---2024-6.pdf"
+    },
+    {
+        "id": "ext_006",
+        "markdown_file_name": "external_content/calendario-conselho-ppgccomp-2024.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "calendario-conselho-ppgccomp-2024.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-conselho-ppgccomp-2024.pdf"
+    },
+    {
+        "id": "ext_007",
+        "markdown_file_name": "external_content/edital-2024-doutorado-em-fluxo-continuo-ppgcc.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-doutorado-em-fluxo-continuo-2024/",
+        "name": "edital-2024-doutorado-em-fluxo-continuo-ppgcc.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/edital-2024-doutorado-em-fluxo-continuo-ppgcc.pdf"
+    },
+    {
+        "id": "ext_008",
+        "markdown_file_name": "external_content/edital-ppgcc-2025.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-de-mestrado-2025/",
+        "name": "edital-ppgcc-2025.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/edital-ppgcc-2025.pdf"
+    },
+    {
+        "id": "ext_009",
+        "markdown_file_name": "external_content/disciplinas-computacao-1-2024---att-12-03-2024.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/horario-de-disciplinas/disciplinas-2024/",
+        "name": "disciplinas-computacao-1-2024---att-12-03-2024.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/disciplinas-computacao-1-2024---att-12-03-2024.pdf"
+    },
+    {
+        "id": "ext_010",
+        "markdown_file_name": "external_content/in8---criterios-para-atribuicao-de-bolsas-ppgcc-de-06marco2017.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in8---criterios-para-atribuicao-de-bolsas-ppgcc-de-06marco2017.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in8---criterios-para-atribuicao-de-bolsas-ppgcc-de-06marco2017.pdf"
+    },
+    {
+        "id": "ext_011",
+        "markdown_file_name": "external_content/instrucao-normativa-7---submissao-de-artigo-antes-da-defesa.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "instrucao-normativa-7---submissao-de-artigo-antes-da-defesa.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/instrucao-normativa-7---submissao-de-artigo-antes-da-defesa.pdf"
+    },
+    {
+        "id": "ext_012",
+        "markdown_file_name": "external_content/in-n-06--composicao-comiss_exam-17ago15-1.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-n-06--composicao-comiss_exam-17ago15-1.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-n-06--composicao-comiss_exam-17ago15-1.pdf"
+    },
+    {
+        "id": "ext_013",
+        "markdown_file_name": "external_content/instrucao-normativa-5-numero-de-orientados-por-orientador_09_2016-alterada-10outubro2016.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "instrucao-normativa-5-numero-de-orientados-por-orientador_09_2016-alterada-10outubro2016.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/instrucao-normativa-5-numero-de-orientados-por-orientador_09_2016-alterada-10outubro2016.pdf"
+    },
+    {
+        "id": "ext_014",
+        "markdown_file_name": "external_content/formulariocredenciamento-anexo-ao-in-4.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "formulariocredenciamento-anexo-ao-in-4.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/formulariocredenciamento-anexo-ao-in-4.doc"
+    },
+    {
+        "id": "ext_015",
+        "markdown_file_name": "external_content/revisao-_-instrucao-normativa-4-credenciamento-e-descredenciamento-docente-06_06_2011.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "revisao-_-instrucao-normativa-4-credenciamento-e-descredenciamento-docente-06_06_2011.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/revisao-_-instrucao-normativa-4-credenciamento-e-descredenciamento-docente-06_06_2011.pdf"
+    },
+    {
+        "id": "ext_016",
+        "markdown_file_name": "external_content/instrucao-normativa-3-exame-de-qualificacao-revisada-em-agosto_2013.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "instrucao-normativa-3-exame-de-qualificacao-revisada-em-agosto_2013.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/instrucao-normativa-3-exame-de-qualificacao-revisada-em-agosto_2013.pdf"
+    },
+    {
+        "id": "ext_017",
+        "markdown_file_name": "external_content/in-2-proficiencia-em-lingua-estrangeira-06jun2011-alterada-em-24marco2014-e--15junho2015.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-2-proficiencia-em-lingua-estrangeira-06jun2011-alterada-em-24marco2014-e--15junho2015.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-2-proficiencia-em-lingua-estrangeira-06jun2011-alterada-em-24marco2014-e--15junho2015.pdf"
+    },
+    {
+        "id": "ext_018",
+        "markdown_file_name": "external_content/1n.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "1n.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/1n.pdf"
+    },
+    {
+        "id": "ext_019",
+        "markdown_file_name": "external_content/regulamento-ciencia-da-computacao.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "regulamento-ciencia-da-computacao.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/regulamento-ciencia-da-computacao.pdf"
+    },
+    {
+        "id": "ext_020",
+        "markdown_file_name": "external_content/in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-em-30.07.2021-regulamento-2019.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-em-30.07.2021-regulamento-2019.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-em-30.07.2021-regulamento-2019.pdf"
+    },
+    {
+        "id": "ext_021",
+        "markdown_file_name": "external_content/in-09-oferecimento-de-disciplinas-aprov-05-de-marco-de-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-09-oferecimento-de-disciplinas-aprov-05-de-marco-de-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-09-oferecimento-de-disciplinas-aprov-05-de-marco-de-2021.pdf"
+    },
+    {
+        "id": "ext_022",
+        "markdown_file_name": "external_content/in-8---licenca-medica-maternidade-paternidade-e-adocao.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-8---licenca-medica-maternidade-paternidade-e-adocao.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-8---licenca-medica-maternidade-paternidade-e-adocao.pdf"
+    },
+    {
+        "id": "ext_023",
+        "markdown_file_name": "external_content/ata_novembro_2019.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata_novembro_2019.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata_novembro_2019.pdf"
+    },
+    {
+        "id": "ext_024",
+        "markdown_file_name": "external_content/ata109a-reuniao-08-de-novembro-de-2019.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata109a-reuniao-08-de-novembro-de-2019.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata109a-reuniao-08-de-novembro-de-2019.pdf"
+    },
+    {
+        "id": "ext_025",
+        "markdown_file_name": "external_content/solicitacao-defesa-tese-computacao-modelo.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/defesa/",
+        "name": "solicitacao-defesa-tese-computacao-modelo.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/solicitacao-defesa-tese-computacao-modelo.doc"
+    },
+    {
+        "id": "ext_026",
+        "markdown_file_name": "external_content/solicitacao-defesa-dissertacao-computacao-modelo-1.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/defesa/",
+        "name": "solicitacao-defesa-dissertacao-computacao-modelo-1.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/solicitacao-defesa-dissertacao-computacao-modelo-1.doc"
+    },
+    {
+        "id": "ext_027",
+        "markdown_file_name": "external_content/ppgcc-oficio-comunicacaoresultado-estudosespeciais.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/estudos-especiais/",
+        "name": "ppgcc-oficio-comunicacaoresultado-estudosespeciais.docx",
+        "type": "docx",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ppgcc-oficio-comunicacaoresultado-estudosespeciais.docx"
+    },
+    {
+        "id": "ext_028",
+        "markdown_file_name": "external_content/in-7-normas-para-defesas-de-dissertacao-etese-alterada-em-30.07.2021-regulamento-2019-1.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/defesa/",
+        "name": "in-7-normas-para-defesas-de-dissertacao-etese-alterada-em-30.07.2021-regulamento-2019-1.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-7-normas-para-defesas-de-dissertacao-etese-alterada-em-30.07.2021-regulamento-2019-1.pdf"
+    },
+    {
+        "id": "ext_029",
+        "markdown_file_name": "external_content/ppgcc-estudosespeciais-atestado-banca.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/estudos-especiais/",
+        "name": "ppgcc-estudosespeciais-atestado-banca.docx",
+        "type": "docx",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ppgcc-estudosespeciais-atestado-banca.docx"
+    },
+    {
+        "id": "ext_030",
+        "markdown_file_name": "external_content/ata---setembro-computacao.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata---setembro-computacao.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata---setembro-computacao.pdf"
+    },
+    {
+        "id": "ext_031",
+        "markdown_file_name": "external_content/ata---julho-computacao.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata---julho-computacao.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata---julho-computacao.pdf"
+    },
+    {
+        "id": "ext_032",
+        "markdown_file_name": "external_content/ata103-29abril2019-aprov-27maio2019.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata103-29abril2019-aprov-27maio2019.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata103-29abril2019-aprov-27maio2019.pdf"
+    },
+    {
+        "id": "ext_033",
+        "markdown_file_name": "external_content/ata102-25marco2019-aprov-29abril2019.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata102-25marco2019-aprov-29abril2019.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata102-25marco2019-aprov-29abril2019.pdf"
+    },
+    {
+        "id": "ext_034",
+        "markdown_file_name": "external_content/ata101-25fevereiro2019-aprov25marco2019.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata101-25fevereiro2019-aprov25marco2019.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata101-25fevereiro2019-aprov25marco2019.pdf"
+    },
+    {
+        "id": "ext_035",
+        "markdown_file_name": "external_content/ata-da-118-reuniao-de-27-de-novembro-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-da-118-reuniao-de-27-de-novembro-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-da-118-reuniao-de-27-de-novembro-aprovada.pdf"
+    },
+    {
+        "id": "ext_036",
+        "markdown_file_name": "external_content/ata-da-117-reuniao-de-23-de-outubro-aprov-27nov2020.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-da-117-reuniao-de-23-de-outubro-aprov-27nov2020.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-da-117-reuniao-de-23-de-outubro-aprov-27nov2020.pdf"
+    },
+    {
+        "id": "ext_037",
+        "markdown_file_name": "external_content/ata-reuniao-extraordinaria-de-25-de-setembro-2.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-reuniao-extraordinaria-de-25-de-setembro-2.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-reuniao-extraordinaria-de-25-de-setembro-2.pdf"
+    },
+    {
+        "id": "ext_038",
+        "markdown_file_name": "external_content/ata-da-116-reuniao-de-9-de-setembro-atualizada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-da-116-reuniao-de-9-de-setembro-atualizada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-da-116-reuniao-de-9-de-setembro-atualizada.pdf"
+    },
+    {
+        "id": "ext_039",
+        "markdown_file_name": "external_content/ata-da-115-reuniao-de-12-de-agosto.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-da-115-reuniao-de-12-de-agosto.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-da-115-reuniao-de-12-de-agosto.pdf"
+    },
+    {
+        "id": "ext_040",
+        "markdown_file_name": "external_content/ata-da-114-reuniao-de-06julho20-aprov-12ag2020.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-da-114-reuniao-de-06julho20-aprov-12ag2020.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-da-114-reuniao-de-06julho20-aprov-12ag2020.pdf"
+    },
+    {
+        "id": "ext_041",
+        "markdown_file_name": "external_content/ata-da-113-reuniao-de-01-de-junho-de-2020.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-da-113-reuniao-de-01-de-junho-de-2020.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-da-113-reuniao-de-01-de-junho-de-2020.pdf"
+    },
+    {
+        "id": "ext_042",
+        "markdown_file_name": "external_content/ata-da-112-reuniao-realizada-em-13-de-abril-de-2020.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-da-112-reuniao-realizada-em-13-de-abril-de-2020.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-da-112-reuniao-realizada-em-13-de-abril-de-2020.pdf"
+    },
+    {
+        "id": "ext_043",
+        "markdown_file_name": "external_content/ata111-de-17-de-fevereiro-de-2020.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata111-de-17-de-fevereiro-de-2020.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata111-de-17-de-fevereiro-de-2020.pdf"
+    },
+    {
+        "id": "ext_044",
+        "markdown_file_name": "external_content/ata--17-de-dezembro-2021--aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--17-de-dezembro-2021--aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--17-de-dezembro-2021--aprovada.pdf"
+    },
+    {
+        "id": "ext_045",
+        "markdown_file_name": "external_content/pauta-convocacao-17-de-dezembro-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-17-de-dezembro-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-17-de-dezembro-2021.pdf"
+    },
+    {
+        "id": "ext_046",
+        "markdown_file_name": "external_content/ata--26-de-novembro-2021--aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--26-de-novembro-2021--aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--26-de-novembro-2021--aprovada.pdf"
+    },
+    {
+        "id": "ext_047",
+        "markdown_file_name": "external_content/pauta-convocacao-26-de-novembro-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-26-de-novembro-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-26-de-novembro-2021.pdf"
+    },
+    {
+        "id": "ext_048",
+        "markdown_file_name": "external_content/ata--22-de-outubro-2021--aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--22-de-outubro-2021--aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--22-de-outubro-2021--aprovada.pdf"
+    },
+    {
+        "id": "ext_049",
+        "markdown_file_name": "external_content/pauta-convocacao-22-de-outubro-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-22-de-outubro-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-22-de-outubro-2021.pdf"
+    },
+    {
+        "id": "ext_050",
+        "markdown_file_name": "external_content/ata--24-de-setembro-2021--aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--24-de-setembro-2021--aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--24-de-setembro-2021--aprovada.pdf"
+    },
+    {
+        "id": "ext_051",
+        "markdown_file_name": "external_content/pauta-convocacao-24-de-setembro-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-24-de-setembro-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-24-de-setembro-2021.pdf"
+    },
+    {
+        "id": "ext_052",
+        "markdown_file_name": "external_content/ata--27-de-agosto-2021--aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--27-de-agosto-2021--aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--27-de-agosto-2021--aprovada.pdf"
+    },
+    {
+        "id": "ext_053",
+        "markdown_file_name": "external_content/pauta-convocacao-27-de-agosto-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-27-de-agosto-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-27-de-agosto-2021.pdf"
+    },
+    {
+        "id": "ext_054",
+        "markdown_file_name": "external_content/proposta-de-in-7-normas-para-defesas-de-dissertacao-etese.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "proposta-de-in-7-normas-para-defesas-de-dissertacao-etese.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/proposta-de-in-7-normas-para-defesas-de-dissertacao-etese.pdf"
+    },
+    {
+        "id": "ext_055",
+        "markdown_file_name": "external_content/in-7-normas-para-defesas-de-dissertacao-etese-alterada-em-30.07.2021-regulamento-2019.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-7-normas-para-defesas-de-dissertacao-etese-alterada-em-30.07.2021-regulamento-2019.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-7-normas-para-defesas-de-dissertacao-etese-alterada-em-30.07.2021-regulamento-2019.pdf"
+    },
+    {
+        "id": "ext_056",
+        "markdown_file_name": "external_content/in-6---matricula-de-alunos-especiais.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-6---matricula-de-alunos-especiais.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-6---matricula-de-alunos-especiais.pdf"
+    },
+    {
+        "id": "ext_057",
+        "markdown_file_name": "external_content/in-4----proficiencia-aprovada-em-abril-de-2020-alterada-em-27nov2020.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-4----proficiencia-aprovada-em-abril-de-2020-alterada-em-27nov2020.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-4----proficiencia-aprovada-em-abril-de-2020-alterada-em-27nov2020.pdf"
+    },
+    {
+        "id": "ext_058",
+        "markdown_file_name": "external_content/in-3-creditos-em-atividades-complementares---portaria-66okok.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-3-creditos-em-atividades-complementares---portaria-66okok.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-3-creditos-em-atividades-complementares---portaria-66okok.pdf"
+    },
+    {
+        "id": "ext_059",
+        "markdown_file_name": "external_content/in-02-credenciamento-descredenc-e-recredenciamento-alterada-em-05-de-marco-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-02-credenciamento-descredenc-e-recredenciamento-alterada-em-05-de-marco-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-02-credenciamento-descredenc-e-recredenciamento-alterada-em-05-de-marco-2021.pdf"
+    },
+    {
+        "id": "ext_060",
+        "markdown_file_name": "external_content/proposta-de-in-1-obrigacoes-e-prazos-dos-alunos.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "proposta-de-in-1-obrigacoes-e-prazos-dos-alunos.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/proposta-de-in-1-obrigacoes-e-prazos-dos-alunos.pdf"
+    },
+    {
+        "id": "ext_061",
+        "markdown_file_name": "external_content/regulamento-ppgcc-resolucoes-04-2019.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "regulamento-ppgcc-resolucoes-04-2019.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/regulamento-ppgcc-resolucoes-04-2019.pdf"
+    },
+    {
+        "id": "ext_062",
+        "markdown_file_name": "external_content/in-12-ensino-hibrido---portaria-74-2022-atualizada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-12-ensino-hibrido---portaria-74-2022-atualizada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-12-ensino-hibrido---portaria-74-2022-atualizada.pdf"
+    },
+    {
+        "id": "ext_063",
+        "markdown_file_name": "external_content/in-11-criterios-para-solicitacao-de-readmissao---22.10.2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-11-criterios-para-solicitacao-de-readmissao---22.10.2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-11-criterios-para-solicitacao-de-readmissao---22.10.2021.pdf"
+    },
+    {
+        "id": "ext_064",
+        "markdown_file_name": "external_content/in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-15.12.2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-15.12.2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-10---criterios-para-atribuicao-de-bolsas-ppgcc-atualizada-15.12.2023.pdf"
+    },
+    {
+        "id": "ext_065",
+        "markdown_file_name": "external_content/in-09-oferecimento-de-disciplinas.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-09-oferecimento-de-disciplinas.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-09-oferecimento-de-disciplinas.pdf"
+    },
+    {
+        "id": "ext_066",
+        "markdown_file_name": "external_content/in-8---licenca-medica-maternidade-paternidade-e-adocao---portaria-66.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-8---licenca-medica-maternidade-paternidade-e-adocao---portaria-66.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-8---licenca-medica-maternidade-paternidade-e-adocao---portaria-66.pdf"
+    },
+    {
+        "id": "ext_067",
+        "markdown_file_name": "external_content/in-7-normas-para-defesas-de-dissertacao-etese---atualizada-em-22.10.2021-ok.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-7-normas-para-defesas-de-dissertacao-etese---atualizada-em-22.10.2021-ok.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-7-normas-para-defesas-de-dissertacao-etese---atualizada-em-22.10.2021-ok.pdf"
+    },
+    {
+        "id": "ext_068",
+        "markdown_file_name": "external_content/in-6---matricula-de-alunos-especiais---portaria-66.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-6---matricula-de-alunos-especiais---portaria-66.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-6---matricula-de-alunos-especiais---portaria-66.pdf"
+    },
+    {
+        "id": "ext_069",
+        "markdown_file_name": "external_content/in-4---comprovacao-de-proficiencia-em-ingles---atualizado-01-03-2024.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-4---comprovacao-de-proficiencia-em-ingles---atualizado-01-03-2024.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-4---comprovacao-de-proficiencia-em-ingles---atualizado-01-03-2024.pdf"
+    },
+    {
+        "id": "ext_070",
+        "markdown_file_name": "external_content/in-3-creditos-em-atividades-complementares-portaria-66-30.06.2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-3-creditos-em-atividades-complementares-portaria-66-30.06.2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-3-creditos-em-atividades-complementares-portaria-66-30.06.2023.pdf"
+    },
+    {
+        "id": "ext_071",
+        "markdown_file_name": "external_content/in-2-credenciamento-descredenc-e-recredenciamento---anexo---formulario---22.10.2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-2-credenciamento-descredenc-e-recredenciamento---anexo---formulario---22.10.2021.docx",
+        "type": "docx",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-2-credenciamento-descredenc-e-recredenciamento---anexo---formulario---22.10.2021.docx"
+    },
+    {
+        "id": "ext_072",
+        "markdown_file_name": "external_content/in-2-credenciamento-descredenc-e-recredenciamento---portaria-66---22.10.2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-2-credenciamento-descredenc-e-recredenciamento---portaria-66---22.10.2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-2-credenciamento-descredenc-e-recredenciamento---portaria-66---22.10.2021.pdf"
+    },
+    {
+        "id": "ext_073",
+        "markdown_file_name": "external_content/in-1---obrigacoes-e-prazos-dos-alunos.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "in-1---obrigacoes-e-prazos-dos-alunos.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-1---obrigacoes-e-prazos-dos-alunos.pdf"
+    },
+    {
+        "id": "ext_074",
+        "markdown_file_name": "external_content/portarias-66-2021-regulamento-computacao.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "name": "portarias-66-2021-regulamento-computacao.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/portarias-66-2021-regulamento-computacao.pdf"
+    },
+    {
+        "id": "ext_075",
+        "markdown_file_name": "external_content/solicitacao-qualificacao-doutorado-computacao-modelo.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/qualificacao/",
+        "name": "solicitacao-qualificacao-doutorado-computacao-modelo.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/solicitacao-qualificacao-doutorado-computacao-modelo.doc"
+    },
+    {
+        "id": "ext_076",
+        "markdown_file_name": "external_content/solicitacao-qualificacao-mestrado-computacao-modelo-1.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/qualificacao/",
+        "name": "solicitacao-qualificacao-mestrado-computacao-modelo-1.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/solicitacao-qualificacao-mestrado-computacao-modelo-1.doc"
+    },
+    {
+        "id": "ext_077",
+        "markdown_file_name": "external_content/in-5---exame-geral-de-qualificacao---portaria-66.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/qualificacao/",
+        "name": "in-5---exame-geral-de-qualificacao---portaria-66.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/in-5---exame-geral-de-qualificacao---portaria-66.pdf"
+    },
+    {
+        "id": "ext_078",
+        "markdown_file_name": "external_content/alteracao-do-calendario-2020---computacao.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-do-programa/",
+        "name": "alteracao-do-calendario-2020---computacao.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/alteracao-do-calendario-2020---computacao.pdf"
+    },
+    {
+        "id": "ext_079",
+        "markdown_file_name": "external_content/calendario-2021---computacao-aprov-27nov2020.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-do-programa/",
+        "name": "calendario-2021---computacao-aprov-27nov2020.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-2021---computacao-aprov-27nov2020.pdf"
+    },
+    {
+        "id": "ext_080",
+        "markdown_file_name": "external_content/calendario_2022_computacao.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-do-programa/",
+        "name": "calendario_2022_computacao.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario_2022_computacao.pdf"
+    },
+    {
+        "id": "ext_081",
+        "markdown_file_name": "external_content/ppgccomputacao-calendario-escolar---pos-graduacao---2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-do-programa/",
+        "name": "ppgccomputacao-calendario-escolar---pos-graduacao---2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ppgccomputacao-calendario-escolar---pos-graduacao---2023.pdf"
+    },
+    {
+        "id": "ext_082",
+        "markdown_file_name": "external_content/ata--30-de-julho-2021--aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--30-de-julho-2021--aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--30-de-julho-2021--aprovada.pdf"
+    },
+    {
+        "id": "ext_083",
+        "markdown_file_name": "external_content/pauta-convocacao-30-de-julho-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-30-de-julho-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-30-de-julho-2021.pdf"
+    },
+    {
+        "id": "ext_084",
+        "markdown_file_name": "external_content/ata--25-de-junho-2021--aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--25-de-junho-2021--aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--25-de-junho-2021--aprovada.pdf"
+    },
+    {
+        "id": "ext_085",
+        "markdown_file_name": "external_content/pauta-convocacao-25-de-junho-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-25-de-junho-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-25-de-junho-2021.pdf"
+    },
+    {
+        "id": "ext_086",
+        "markdown_file_name": "external_content/ata--28-de-maio-2021--aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--28-de-maio-2021--aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--28-de-maio-2021--aprovada.pdf"
+    },
+    {
+        "id": "ext_087",
+        "markdown_file_name": "external_content/convocacao-28-de-maio.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "convocacao-28-de-maio.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/convocacao-28-de-maio.pdf"
+    },
+    {
+        "id": "ext_088",
+        "markdown_file_name": "external_content/ata--30-de-abril-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--30-de-abril-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--30-de-abril-aprovada.pdf"
+    },
+    {
+        "id": "ext_089",
+        "markdown_file_name": "external_content/convocacao-30-de-abril.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "convocacao-30-de-abril.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/convocacao-30-de-abril.pdf"
+    },
+    {
+        "id": "ext_090",
+        "markdown_file_name": "external_content/ata--26-de-marco---aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--26-de-marco---aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--26-de-marco---aprovada.pdf"
+    },
+    {
+        "id": "ext_091",
+        "markdown_file_name": "external_content/ata--05-de-marco---aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--05-de-marco---aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--05-de-marco---aprovada.pdf"
+    },
+    {
+        "id": "ext_092",
+        "markdown_file_name": "external_content/convocacao-05-de-marco.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "convocacao-05-de-marco.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/convocacao-05-de-marco.pdf"
+    },
+    {
+        "id": "ext_093",
+        "markdown_file_name": "external_content/ata-de-26-de-fevereiro-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-de-26-de-fevereiro-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-de-26-de-fevereiro-aprovada.pdf"
+    },
+    {
+        "id": "ext_094",
+        "markdown_file_name": "external_content/convocacao-26-de-fevereiro.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "convocacao-26-de-fevereiro.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/convocacao-26-de-fevereiro.pdf"
+    },
+    {
+        "id": "ext_095",
+        "markdown_file_name": "external_content/ata-da-119-reuniao-de-28-de-janeio-2021---aprov-fev-.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-da-119-reuniao-de-28-de-janeio-2021---aprov-fev-.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-da-119-reuniao-de-28-de-janeio-2021---aprov-fev-.pdf"
+    },
+    {
+        "id": "ext_096",
+        "markdown_file_name": "external_content/convocacao-28-de-janeiro-2021.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "convocacao-28-de-janeiro-2021.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/convocacao-28-de-janeiro-2021.pdf"
+    },
+    {
+        "id": "ext_097",
+        "markdown_file_name": "external_content/ata-16-de-dezembro-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-16-de-dezembro-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-16-de-dezembro-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_098",
+        "markdown_file_name": "external_content/pauta-convocacao-16-de-dezembro-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-16-de-dezembro-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-16-de-dezembro-2022.pdf"
+    },
+    {
+        "id": "ext_099",
+        "markdown_file_name": "external_content/ata-25-de-novembro-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-25-de-novembro-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-25-de-novembro-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_100",
+        "markdown_file_name": "external_content/pauta-convocacao-25-de-novembro-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-25-de-novembro-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-25-de-novembro-2022.pdf"
+    },
+    {
+        "id": "ext_101",
+        "markdown_file_name": "external_content/ata-21-de-outubro-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-21-de-outubro-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-21-de-outubro-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_102",
+        "markdown_file_name": "external_content/pauta-convocacao-21-de-outubro-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-21-de-outubro-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-21-de-outubro-2022.pdf"
+    },
+    {
+        "id": "ext_103",
+        "markdown_file_name": "external_content/ata-30-de-setembro-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-30-de-setembro-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-30-de-setembro-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_104",
+        "markdown_file_name": "external_content/pauta-convocacao-30-de-setembro-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-30-de-setembro-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-30-de-setembro-2022.pdf"
+    },
+    {
+        "id": "ext_105",
+        "markdown_file_name": "external_content/ata-26-de-agosto-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-26-de-agosto-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-26-de-agosto-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_106",
+        "markdown_file_name": "external_content/pauta-convocacao-26-de-agosto-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-26-de-agosto-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-26-de-agosto-2022.pdf"
+    },
+    {
+        "id": "ext_107",
+        "markdown_file_name": "external_content/ata-05-de-agosto-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-05-de-agosto-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-05-de-agosto-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_108",
+        "markdown_file_name": "external_content/pauta-convocacao-05-de-agosto-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-05-de-agosto-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-05-de-agosto-2022.pdf"
+    },
+    {
+        "id": "ext_109",
+        "markdown_file_name": "external_content/ata-24-de-junho-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-24-de-junho-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-24-de-junho-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_110",
+        "markdown_file_name": "external_content/pauta-convocacao-24-de-junho-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-24-de-junho-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-24-de-junho-2022.pdf"
+    },
+    {
+        "id": "ext_111",
+        "markdown_file_name": "external_content/ata-27-de-maio-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-27-de-maio-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-27-de-maio-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_112",
+        "markdown_file_name": "external_content/pauta-convocacao-27-de-maio-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-27-de-maio-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-27-de-maio-2022.pdf"
+    },
+    {
+        "id": "ext_113",
+        "markdown_file_name": "external_content/ata-29-de-abril-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-29-de-abril-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-29-de-abril-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_114",
+        "markdown_file_name": "external_content/pauta-convocacao-29-de-abril-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-29-de-abril-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-29-de-abril-2022.pdf"
+    },
+    {
+        "id": "ext_115",
+        "markdown_file_name": "external_content/ata-25-de-marco-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-25-de-marco-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-25-de-marco-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_116",
+        "markdown_file_name": "external_content/pauta-convocacao-25-de-marco-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-25-de-marco-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-25-de-marco-2022.pdf"
+    },
+    {
+        "id": "ext_117",
+        "markdown_file_name": "external_content/ata-25-de-fevereiro-2022-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-25-de-fevereiro-2022-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-25-de-fevereiro-2022-aprovada.pdf"
+    },
+    {
+        "id": "ext_118",
+        "markdown_file_name": "external_content/pauta-convocacao-25-de-fevereiro-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-25-de-fevereiro-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-25-de-fevereiro-2022.pdf"
+    },
+    {
+        "id": "ext_119",
+        "markdown_file_name": "external_content/ata--28-de-janeiro-2022--aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata--28-de-janeiro-2022--aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata--28-de-janeiro-2022--aprovada.pdf"
+    },
+    {
+        "id": "ext_120",
+        "markdown_file_name": "external_content/pauta-convocacao-28-de-janeiro-2022.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-28-de-janeiro-2022.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-28-de-janeiro-2022.pdf"
+    },
+    {
+        "id": "ext_121",
+        "markdown_file_name": "external_content/ata_148.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata_148.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata_148.pdf"
+    },
+    {
+        "id": "ext_122",
+        "markdown_file_name": "external_content/pauta-convocacao-30-de-junho-2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-30-de-junho-2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-30-de-junho-2023.pdf"
+    },
+    {
+        "id": "ext_123",
+        "markdown_file_name": "external_content/ata-26-de-maio-2023-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-26-de-maio-2023-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-26-de-maio-2023-aprovada.pdf"
+    },
+    {
+        "id": "ext_124",
+        "markdown_file_name": "external_content/pauta-convocacao-26-de-maio-2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-26-de-maio-2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-26-de-maio-2023.pdf"
+    },
+    {
+        "id": "ext_125",
+        "markdown_file_name": "external_content/ata-28-de-abril-2023-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-28-de-abril-2023-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-28-de-abril-2023-aprovada.pdf"
+    },
+    {
+        "id": "ext_126",
+        "markdown_file_name": "external_content/pauta-convocacao-28-de-abril-2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-28-de-abril-2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-28-de-abril-2023.pdf"
+    },
+    {
+        "id": "ext_127",
+        "markdown_file_name": "external_content/ata-31-de-marco-2023-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-31-de-marco-2023-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-31-de-marco-2023-aprovada.pdf"
+    },
+    {
+        "id": "ext_128",
+        "markdown_file_name": "external_content/pauta-convocacao-31-de-marco-2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-31-de-marco-2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-31-de-marco-2023.pdf"
+    },
+    {
+        "id": "ext_129",
+        "markdown_file_name": "external_content/ata-24-de-fevereiro-2023-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-24-de-fevereiro-2023-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-24-de-fevereiro-2023-aprovada.pdf"
+    },
+    {
+        "id": "ext_130",
+        "markdown_file_name": "external_content/pauta-convocacao-24-de-fevereiro-2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-24-de-fevereiro-2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-24-de-fevereiro-2023.pdf"
+    },
+    {
+        "id": "ext_131",
+        "markdown_file_name": "external_content/ata-27-de-janeiro-2023-aprovada.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "ata-27-de-janeiro-2023-aprovada.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ata-27-de-janeiro-2023-aprovada.pdf"
+    },
+    {
+        "id": "ext_132",
+        "markdown_file_name": "external_content/pauta-convocacao-27-de-janeiro-2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "name": "pauta-convocacao-27-de-janeiro-2023.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/pauta-convocacao-27-de-janeiro-2023.pdf"
+    },
+    {
+        "id": "ext_133",
+        "markdown_file_name": "external_content/2022-tutorial-processo-seletivo-upload-sispg.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-doutorado-em-fluxo-continuo-2024/",
+        "name": "2022-tutorial-processo-seletivo-upload-sispg.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/2022-tutorial-processo-seletivo-upload-sispg.pdf"
+    },
+    {
+        "id": "ext_134",
+        "markdown_file_name": "external_content/solicitacao-de-reducao-de-taxa-de-inscricao.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-doutorado-em-fluxo-continuo-2024/",
+        "name": "solicitacao-de-reducao-de-taxa-de-inscricao.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/solicitacao-de-reducao-de-taxa-de-inscricao.doc"
+    },
+    {
+        "id": "ext_135",
+        "markdown_file_name": "external_content/requerimento-inscricao-doutorado2023.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-doutorado-em-fluxo-continuo-2024/",
+        "name": "requerimento-inscricao-doutorado2023.docx",
+        "type": "docx",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/requerimento-inscricao-doutorado2023.docx"
+    },
+    {
+        "id": "ext_136",
+        "markdown_file_name": "external_content/ppgcc_carta-de-recomendacao2023-doutorado.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-doutorado-em-fluxo-continuo-2024/",
+        "name": "ppgcc_carta-de-recomendacao2023-doutorado.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ppgcc_carta-de-recomendacao2023-doutorado.doc"
+    },
+    {
+        "id": "ext_137",
+        "markdown_file_name": "external_content/ppgcc-resultado-da-solicitacao-de-reducao-de-taxa-2025---retificado.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-de-mestrado-2025/",
+        "name": "ppgcc-resultado-da-solicitacao-de-reducao-de-taxa-2025---retificado.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ppgcc-resultado-da-solicitacao-de-reducao-de-taxa-2025---retificado.pdf"
+    },
+    {
+        "id": "ext_138",
+        "markdown_file_name": "external_content/solicitacao-de-reducao-de-taxa-de-inscricao---att.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-de-mestrado-2025/",
+        "name": "solicitacao-de-reducao-de-taxa-de-inscricao---att.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/solicitacao-de-reducao-de-taxa-de-inscricao---att.doc"
+    },
+    {
+        "id": "ext_139",
+        "markdown_file_name": "external_content/requerimento-inscricao.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-de-mestrado-2025/",
+        "name": "requerimento-inscricao.docx",
+        "type": "docx",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/requerimento-inscricao.docx"
+    },
+    {
+        "id": "ext_140",
+        "markdown_file_name": "external_content/ppgcc_carta-de-recomendacao2025.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-de-mestrado-2025/",
+        "name": "ppgcc_carta-de-recomendacao2025.doc",
+        "type": "doc",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/ppgcc_carta-de-recomendacao2025.doc"
+    },
+    {
+        "id": "ext_141",
+        "markdown_file_name": "external_content/disciplinas-computacao-2-2024--att----30-07-2024.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/horario-de-disciplinas/disciplinas-2024/",
+        "name": "disciplinas-computacao-2-2024--att----30-07-2024.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/disciplinas-computacao-2-2024--att----30-07-2024.pdf"
+    },
+    {
+        "id": "ext_142",
+        "markdown_file_name": "external_content/egressos_mestrado.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pessoas/egressos/",
+        "name": "egressos_mestrado.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/egressos_mestrado.pdf"
+    },
+    {
+        "id": "ext_143",
+        "markdown_file_name": "external_content/unesp_ppgcc_dissertacoes_teses_defendidas.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pessoas/egressos/",
+        "name": "unesp_ppgcc_dissertacoes_teses_defendidas.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/unesp_ppgcc_dissertacoes_teses_defendidas.pdf"
+    },
+    {
+        "id": "ext_144",
+        "markdown_file_name": "external_content/egressos_doutorado.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pessoas/egressos/",
+        "name": "egressos_doutorado.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/egressos_doutorado.pdf"
+    },
+    {
+        "id": "ext_145",
+        "markdown_file_name": "external_content/calendario-conselho-ppgccomp-2024-3.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/conselho6820/reuniao-do-conselho/",
+        "name": "calendario-conselho-ppgccomp-2024-3.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/calendario-conselho-ppgccomp-2024-3.pdf"
+    },
+    {
+        "id": "ext_146",
+        "markdown_file_name": "external_content/analise-e-projeto-de-algoritmos-atualizada-2018_-corrigido.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "analise-e-projeto-de-algoritmos-atualizada-2018_-corrigido.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/analise-e-projeto-de-algoritmos-atualizada-2018_-corrigido.pdf"
+    },
+    {
+        "id": "ext_147",
+        "markdown_file_name": "external_content/visualizacao-da-informacao-danilo-e-remo.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "visualizacao-da-informacao-danilo-e-remo.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/visualizacao-da-informacao-danilo-e-remo.pdf"
+    },
+    {
+        "id": "ext_148",
+        "markdown_file_name": "external_content/sistemas-distribuidos_45060.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "sistemas-distribuidos_45060.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/sistemas-distribuidos_45060.pdf"
+    },
+    {
+        "id": "ext_149",
+        "markdown_file_name": "external_content/sistemas-biometricos_46538.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "sistemas-biometricos_46538.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/sistemas-biometricos_46538.pdf"
+    },
+    {
+        "id": "ext_150",
+        "markdown_file_name": "external_content/seguranca-de-computadores-e-redes-atualiz-2018_42156.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "seguranca-de-computadores-e-redes-atualiz-2018_42156.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/seguranca-de-computadores-e-redes-atualiz-2018_42156.pdf"
+    },
+    {
+        "id": "ext_151",
+        "markdown_file_name": "external_content/seguranca-cibernetica-prof-adriano-m-cansian.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "seguranca-cibernetica-prof-adriano-m-cansian.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/seguranca-cibernetica-prof-adriano-m-cansian.pdf"
+    },
+    {
+        "id": "ext_152",
+        "markdown_file_name": "external_content/redes-sem-fio-e-sistemas-moveis-de-comunicacao_cco00041.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "redes-sem-fio-e-sistemas-moveis-de-comunicacao_cco00041.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/redes-sem-fio-e-sistemas-moveis-de-comunicacao_cco00041.pdf"
+    },
+    {
+        "id": "ext_153",
+        "markdown_file_name": "external_content/redes-de-computadores_cco00040.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "redes-de-computadores_cco00040.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/redes-de-computadores_cco00040.pdf"
+    },
+    {
+        "id": "ext_154",
+        "markdown_file_name": "external_content/recuperacao-da-informacao_cco00046.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "recuperacao-da-informacao_cco00046.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/recuperacao-da-informacao_cco00046.pdf"
+    },
+    {
+        "id": "ext_155",
+        "markdown_file_name": "external_content/realidade-aumentada_40681.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "realidade-aumentada_40681.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/realidade-aumentada_40681.pdf"
+    },
+    {
+        "id": "ext_156",
+        "markdown_file_name": "external_content/programacao-concorrente-atualiz-2018_45084.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "programacao-concorrente-atualiz-2018_45084.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/programacao-concorrente-atualiz-2018_45084.pdf"
+    },
+    {
+        "id": "ext_157",
+        "markdown_file_name": "external_content/processamento-digital-de-imagens_cco00042.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "processamento-digital-de-imagens_cco00042.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/processamento-digital-de-imagens_cco00042.pdf"
+    },
+    {
+        "id": "ext_158",
+        "markdown_file_name": "external_content/mineracao-de-dados_cco00038.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "mineracao-de-dados_cco00038.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/mineracao-de-dados_cco00038.pdf"
+    },
+    {
+        "id": "ext_159",
+        "markdown_file_name": "external_content/metodos-de-matematica-computacional_cco00045.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "metodos-de-matematica-computacional_cco00045.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/metodos-de-matematica-computacional_cco00045.pdf"
+    },
+    {
+        "id": "ext_160",
+        "markdown_file_name": "external_content/inteligencia-artificial_42141.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "inteligencia-artificial_42141.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/inteligencia-artificial_42141.pdf"
+    },
+    {
+        "id": "ext_161",
+        "markdown_file_name": "external_content/gerencia-de-projetos-atualiz-2018_46535.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "gerencia-de-projetos-atualiz-2018_46535.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/gerencia-de-projetos-atualiz-2018_46535.pdf"
+    },
+    {
+        "id": "ext_162",
+        "markdown_file_name": "external_content/estudos-especiais-ii_45058-1.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "estudos-especiais-ii_45058-1.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/estudos-especiais-ii_45058-1.pdf"
+    },
+    {
+        "id": "ext_163",
+        "markdown_file_name": "external_content/estudos-especiais-i_45057-corrigida.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "estudos-especiais-i_45057-corrigida.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/estudos-especiais-i_45057-corrigida.pdf"
+    },
+    {
+        "id": "ext_164",
+        "markdown_file_name": "external_content/estrutura-de-dados-atualiz-2018_corrigida.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "estrutura-de-dados-atualiz-2018_corrigida.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/estrutura-de-dados-atualiz-2018_corrigida.pdf"
+    },
+    {
+        "id": "ext_165",
+        "markdown_file_name": "external_content/engenharia-de-software-atualiz-2018_40667.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "engenharia-de-software-atualiz-2018_40667.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/engenharia-de-software-atualiz-2018_40667.pdf"
+    },
+    {
+        "id": "ext_166",
+        "markdown_file_name": "external_content/computacao-inspirada-pela-natureza_43575.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "computacao-inspirada-pela-natureza_43575.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/computacao-inspirada-pela-natureza_43575.pdf"
+    },
+    {
+        "id": "ext_167",
+        "markdown_file_name": "external_content/computacao-e-informacao-quantica_43582.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "computacao-e-informacao-quantica_43582.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/computacao-e-informacao-quantica_43582.pdf"
+    },
+    {
+        "id": "ext_168",
+        "markdown_file_name": "external_content/computacao-de-alto-desempenho-atualiz-2018_37633.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "computacao-de-alto-desempenho-atualiz-2018_37633.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/computacao-de-alto-desempenho-atualiz-2018_37633.pdf"
+    },
+    {
+        "id": "ext_169",
+        "markdown_file_name": "external_content/computacao-bio-inspirada_cco00044.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "computacao-bio-inspirada_cco00044.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/computacao-bio-inspirada_cco00044.pdf"
+    },
+    {
+        "id": "ext_170",
+        "markdown_file_name": "external_content/banco-de-dados-atualiz-2018_40665.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "banco-de-dados-atualiz-2018_40665.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/banco-de-dados-atualiz-2018_40665.pdf"
+    },
+    {
+        "id": "ext_171",
+        "markdown_file_name": "external_content/arquitetura-de-software_cco00039.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "arquitetura-de-software_cco00039.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/arquitetura-de-software_cco00039.pdf"
+    },
+    {
+        "id": "ext_172",
+        "markdown_file_name": "external_content/arquitetura-de-computadores-atualiz-2018_40664.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "arquitetura-de-computadores-atualiz-2018_40664.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/arquitetura-de-computadores-atualiz-2018_40664.pdf"
+    },
+    {
+        "id": "ext_173",
+        "markdown_file_name": "external_content/aprendizado-de-maquina_cco00043.md",
+        "origin": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "name": "aprendizado-de-maquina_cco00043.pdf",
+        "type": "pdf",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/Home/Pos-Graduacao475/CienciadaComputacao/aprendizado-de-maquina_cco00043.pdf"
+    },
+    {
+        "id": "page_001",
+        "markdown_file_name": "page_content/programas-de-pos-graduacao_ciencia-da-computacao.md",
+        "name": "Pós-Graduação em Ciência da Computação",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/",
+        "type": "page",
+        "last_update": "19/Out/2023 11:56",
+        "page_id": 6398
+    },
+    {
+        "id": "page_002",
+        "markdown_file_name": "page_content/horario-de-disciplinas_disciplinas-2024.md",
+        "name": "Disciplinas 2024",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/horario-de-disciplinas/disciplinas-2024/",
+        "type": "page",
+        "last_update": "30/Jul/2024 09:26",
+        "page_id": 8195
+    },
+    {
+        "id": "page_003",
+        "markdown_file_name": "page_content/horario-de-disciplinas_portfolio---disciplinas---unesp.md",
+        "name": "PROPG Portfólio de Integração de Disciplinas da Pós-graduação",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/horario-de-disciplinas/portfolio---disciplinas---unesp/",
+        "type": "page",
+        "last_update": "30/Jul/2024 09:26",
+        "page_id": 8195
+    },
+    {
+        "id": "page_004",
+        "markdown_file_name": "page_content/ciencia-da-computacao_horario-de-disciplinas.md",
+        "name": "Quadro de Disciplinas",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/horario-de-disciplinas/",
+        "type": "page",
+        "last_update": "22/Jan/2024 08:30",
+        "page_id": 8027
+    },
+    {
+        "id": "page_005",
+        "markdown_file_name": "page_content/informacoes-para-candidatos_processo-seletivo-de-mestrado-2025.md",
+        "name": "Processo Seletivo Mestrado - PPGCC - 2025",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-de-mestrado-2025/",
+        "type": "page",
+        "last_update": "09/Out/2024 17:21",
+        "page_id": 8479
+    },
+    {
+        "id": "page_006",
+        "markdown_file_name": "page_content/informacoes-para-candidatos_processo-seletivo-doutorado-em-fluxo-continuo-2024.md",
+        "name": "Seleção de Doutorado em fluxo contínuo 2024 - PPGCC",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/processo-seletivo-doutorado-em-fluxo-continuo-2024/",
+        "type": "page",
+        "last_update": "08/Ago/2024 10:14",
+        "page_id": 8189
+    },
+    {
+        "id": "page_007",
+        "markdown_file_name": "page_content/ciencia-da-computacao_informacoes-para-candidatos.md",
+        "name": "Processo Seletivo",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-candidatos/",
+        "type": "page",
+        "last_update": "25/Set/2024 20:57",
+        "page_id": 8026
+    },
+    {
+        "id": "page_008",
+        "markdown_file_name": "page_content/calendario_calendario-de-reunioes---pautas-e-atas.md",
+        "name": "Calendário de Reuniões do Conselho",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-de-reunioes---pautas-e-atas/",
+        "type": "page",
+        "last_update": "10/Out/2024 10:01",
+        "page_id": 5823
+    },
+    {
+        "id": "page_009",
+        "markdown_file_name": "page_content/calendario_calendario-do-programa.md",
+        "name": "PPG Ciência da Computação - Calendários",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/calendario-do-programa/",
+        "type": "page",
+        "last_update": "24/Jan/2024 16:15",
+        "page_id": 1780
+    },
+    {
+        "id": "page_010",
+        "markdown_file_name": "page_content/ciencia-da-computacao_calendario.md",
+        "name": "PPG Ciência da Computação - Calendários",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/calendario/",
+        "type": "page",
+        "last_update": "24/Jan/2024 16:15",
+        "page_id": 1780
+    },
+    {
+        "id": "page_011",
+        "markdown_file_name": "page_content/apoio-academico_requerimento.md",
+        "name": "Requerimento Geral",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/requerimento/",
+        "type": "page",
+        "last_update": "14/Abr/2022 17:01",
+        "page_id": 7529
+    },
+    {
+        "id": "page_012",
+        "markdown_file_name": "page_content/apoio-academico_qualificacao.md",
+        "name": "Qualificação - PPGCComputação",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/qualificacao/",
+        "type": "page",
+        "last_update": "08/Ago/2022 10:58",
+        "page_id": 7519
+    },
+    {
+        "id": "page_013",
+        "markdown_file_name": "page_content/apoio-academico_normas-e-regulamentos.md",
+        "name": "Normas e Regulamentos - PPGCC",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/normas-e-regulamentos/",
+        "type": "page",
+        "last_update": "26/Set/2024 16:00",
+        "page_id": 6403
+    },
+    {
+        "id": "page_014",
+        "markdown_file_name": "page_content/apoio-academico_homlogacao.md",
+        "name": "Homologação - Alunos Pres. Prudente - FCT",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/homlogacao/",
+        "type": "page",
+        "last_update": "17/Out/2024 09:04",
+        "page_id": 7528
+    },
+    {
+        "id": "page_015",
+        "markdown_file_name": "page_content/apoio-academico_guia-rapido.md",
+        "name": "Pós-Graduação em Ciência da Computação - Guia rápido do aluno",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/guia-rapido/",
+        "type": "page",
+        "last_update": "12/Ago/2024 16:35",
+        "page_id": 1795
+    },
+    {
+        "id": "page_016",
+        "markdown_file_name": "page_content/apoio-academico_estudos-especiais.md",
+        "name": "Orientações sobre Estudos Especiais",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/estudos-especiais/",
+        "type": "page",
+        "last_update": "20/Set/2022 12:49",
+        "page_id": 7603
+    },
+    {
+        "id": "page_017",
+        "markdown_file_name": "page_content/apoio-academico_defesa.md",
+        "name": "Defesa",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/defesa/",
+        "type": "page",
+        "last_update": "18/Abr/2022 11:38",
+        "page_id": 7526
+    },
+    {
+        "id": "page_018",
+        "markdown_file_name": "page_content/ciencia-da-computacao_apoio-academico.md",
+        "name": "Defesa",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apoio-academico/",
+        "type": "page",
+        "last_update": "18/Abr/2022 11:38",
+        "page_id": 7526
+    },
+    {
+        "id": "page_019",
+        "markdown_file_name": "page_content/pessoas_egressos.md",
+        "name": "Egressos",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pessoas/egressos/",
+        "type": "page",
+        "last_update": "02/Out/2023 16:19",
+        "page_id": 7246
+    },
+    {
+        "id": "page_020",
+        "markdown_file_name": "page_content/pessoas_docentes.md",
+        "name": "Pós-Graduação em Ciência da Computação - Corpo Docente",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pessoas/docentes/",
+        "type": "page",
+        "last_update": "19/Ago/2024 12:22",
+        "page_id": 1734
+    },
+    {
+        "id": "page_021",
+        "markdown_file_name": "page_content/ciencia-da-computacao_pessoas.md",
+        "name": "Pós-Graduação em Ciência da Computação - Corpo Docente",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pessoas/",
+        "type": "page",
+        "last_update": "19/Ago/2024 12:22",
+        "page_id": 1734
+    },
+    {
+        "id": "page_022",
+        "markdown_file_name": "page_content/conselho6820_reuniao-do-conselho.md",
+        "name": "Reuniões do Conselho",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/conselho6820/reuniao-do-conselho/",
+        "type": "page",
+        "last_update": "05/Fev/2024 17:13",
+        "page_id": 8185
+    },
+    {
+        "id": "page_023",
+        "markdown_file_name": "page_content/conselho6820_composicao.md",
+        "name": "Pós-Graduação em Ciência da Computação - Conselho",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/conselho6820/composicao/",
+        "type": "page",
+        "last_update": "07/Ago/2023 11:22",
+        "page_id": 1735
+    },
+    {
+        "id": "page_024",
+        "markdown_file_name": "page_content/ciencia-da-computacao_conselho6820.md",
+        "name": "Pós-Graduação em Ciência da Computação - Conselho",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/conselho6820/",
+        "type": "page",
+        "last_update": "07/Ago/2023 11:22",
+        "page_id": 1735
+    },
+    {
+        "id": "page_025",
+        "markdown_file_name": "page_content/ciencia-da-computacao_apresentacao.md",
+        "name": "Pós-Graduação em Ciência da Computação - Apresentação",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apresentacao/",
+        "type": "page",
+        "last_update": "13/Jul/2023 14:45",
+        "page_id": 1733
+    },
+    {
+        "id": "page_026",
+        "markdown_file_name": "page_content/ciencia-da-computacao_normas-e-regulamentos.md",
+        "name": "Normas e Regulamentos - PPGCC",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/normas-e-regulamentos/",
+        "type": "page",
+        "last_update": "26/Set/2024 16:00",
+        "page_id": 6403
+    },
+    {
+        "id": "page_027",
+        "markdown_file_name": "page_content/ciencia-da-computacao_this-page-in-english.md",
+        "name": "Pós-Graduação em Ciência da Computação - Overview",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/",
+        "type": "page",
+        "last_update": "02/Out/2023 15:06",
+        "page_id": 1816
+    },
+    {
+        "id": "page_028",
+        "markdown_file_name": "page_content/ciencia-da-computacao_fale-conosco.md",
+        "name": "Fale Conosco",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/fale-conosco/",
+        "type": "page",
+        "last_update": "03/Nov/2021 16:00",
+        "page_id": 7357
+    },
+    {
+        "id": "page_029",
+        "markdown_file_name": "page_content/pesquisa-e-projetos_projetos.md",
+        "name": "Pós-Graduação em Ciência da Computação - Projetos",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pesquisa-e-projetos/projetos/",
+        "type": "page",
+        "last_update": "05/Fev/2013 10:11",
+        "page_id": 1773
+    },
+    {
+        "id": "page_030",
+        "markdown_file_name": "page_content/pesquisa-e-projetos_linhas-de-pesquisa.md",
+        "name": "Pós-Graduação em Ciência da Computação - Linhas de Pesquisa",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pesquisa-e-projetos/linhas-de-pesquisa/",
+        "type": "page",
+        "last_update": "09/Jun/2017 17:13",
+        "page_id": 1772
+    },
+    {
+        "id": "page_031",
+        "markdown_file_name": "page_content/ciencia-da-computacao_pesquisa-e-projetos.md",
+        "name": "Pesquisa e Projetos",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/pesquisa-e-projetos/",
+        "type": "page",
+        "last_update": "18/Fev/2019 09:06",
+        "page_id": 6399
+    },
+    {
+        "id": "page_032",
+        "markdown_file_name": "page_content/ciencia-da-computacao_linhas-de-pesquisa.md",
+        "name": "Pós-Graduação em Ciência da Computação - Linhas de Pesquisa",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/linhas-de-pesquisa/",
+        "type": "page",
+        "last_update": "09/Jun/2017 17:13",
+        "page_id": 1772
+    },
+    {
+        "id": "page_033",
+        "markdown_file_name": "page_content/ciencia-da-computacao_conselho.md",
+        "name": "Calendário de Reuniões do Conselho",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/conselho/",
+        "type": "page",
+        "last_update": "10/Out/2024 10:01",
+        "page_id": 5823
+    },
+    {
+        "id": "page_034",
+        "markdown_file_name": "page_content/ciencia-da-computacao_estrutura-curricular.md",
+        "name": "Estrutura Curricular",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/estrutura-curricular/",
+        "type": "page",
+        "last_update": "05/Fev/2021 17:10",
+        "page_id": 5747
+    },
+    {
+        "id": "page_035",
+        "markdown_file_name": "page_content/informacoes-para-alunos-regulares_guia-rapido.md",
+        "name": "Pós-Graduação em Ciência da Computação - Guia rápido do aluno",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-alunos-regulares/guia-rapido/",
+        "type": "page",
+        "last_update": "12/Ago/2024 16:35",
+        "page_id": 1795
+    },
+    {
+        "id": "page_036",
+        "markdown_file_name": "page_content/ciencia-da-computacao_informacoes-para-alunos-regulares.md",
+        "name": "Informações para Alunos Regulares",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/informacoes-para-alunos-regulares/",
+        "type": "page",
+        "last_update": "18/Fev/2019 09:36",
+        "page_id": 6401
+    },
+    {
+        "id": "page_037",
+        "markdown_file_name": "page_content/ciencia-da-computacao_dissertacoes-defendidas.md",
+        "name": "Dissertações e Teses",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/dissertacoes-defendidas/",
+        "type": "page",
+        "last_update": "11/Out/2024 16:49",
+        "page_id": 7076
+    },
+    {
+        "id": "page_038",
+        "markdown_file_name": "page_content/ciencia-da-computacao_aluno-especial.md",
+        "name": "Aluno Especial",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/aluno-especial/",
+        "type": "page",
+        "last_update": "14/Mai/2024 14:09",
+        "page_id": 7560
+    },
+    {
+        "id": "page_039",
+        "markdown_file_name": "page_content/this-page-in-english_interesting-links.md",
+        "name": "Pós-Graduação em Ciência da Computação - Links",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/interesting-links/",
+        "type": "page",
+        "last_update": "22/Mai/2012 16:29",
+        "page_id": 1829
+    },
+    {
+        "id": "page_040",
+        "markdown_file_name": "page_content/this-page-in-english_student-guide.md",
+        "name": "Pós-Graduação em Ciência da Computação - Student Quick Facts ",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/student-guide/",
+        "type": "page",
+        "last_update": "02/Out/2023 14:44",
+        "page_id": 1823
+    },
+    {
+        "id": "page_041",
+        "markdown_file_name": "page_content/informations-for-prospective-students_admission-process.md",
+        "name": "Pós-Graduação em Ciência da Computação - Admission Process",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/informations-for-prospective-students/admission-process/",
+        "type": "page",
+        "last_update": "02/Out/2023 14:55",
+        "page_id": 1827
+    },
+    {
+        "id": "page_042",
+        "markdown_file_name": "page_content/informations-for-prospective-students_requirements-for-msc-degree.md",
+        "name": "Pós-Graduação em Ciência da Computação - Student Quick Facts ",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/informations-for-prospective-students/requirements-for-msc-degree/",
+        "type": "page",
+        "last_update": "02/Out/2023 14:44",
+        "page_id": 1823
+    },
+    {
+        "id": "page_043",
+        "markdown_file_name": "page_content/this-page-in-english_informations-for-prospective-students.md",
+        "name": "Pós-Graduação em Ciência da Computação - Student Quick Facts ",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/informations-for-prospective-students/",
+        "type": "page",
+        "last_update": "02/Out/2023 14:44",
+        "page_id": 1823
+    },
+    {
+        "id": "page_044",
+        "markdown_file_name": "page_content/research-and-projects_research-lines.md",
+        "name": "Pós-Graduação em Ciência da Computação - Research lines",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/research-and-projects/research-lines/",
+        "type": "page",
+        "last_update": "22/Mai/2012 16:26",
+        "page_id": 1822
+    },
+    {
+        "id": "page_045",
+        "markdown_file_name": "page_content/this-page-in-english_research-and-projects.md",
+        "name": "Pós-Graduação em Ciência da Computação - Research lines",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/research-and-projects/",
+        "type": "page",
+        "last_update": "22/Mai/2012 16:26",
+        "page_id": 1822
+    },
+    {
+        "id": "page_046",
+        "markdown_file_name": "page_content/this-page-in-english_programs-coordination.md",
+        "name": "Pós-Graduação em Ciência da Computação - Board",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/programs-coordination/",
+        "type": "page",
+        "last_update": "02/Out/2023 14:48",
+        "page_id": 1819
+    },
+    {
+        "id": "page_047",
+        "markdown_file_name": "page_content/this-page-in-english_overview.md",
+        "name": "Pós-Graduação em Ciência da Computação - Overview",
+        "scrape_date": "2024-10-25",
+        "url": "https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/this-page-in-english/overview/",
+        "type": "page",
+        "last_update": "02/Out/2023 15:06",
+        "page_id": 1816
+    }
+]
