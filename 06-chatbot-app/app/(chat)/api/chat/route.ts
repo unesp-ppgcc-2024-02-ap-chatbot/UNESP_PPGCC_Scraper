@@ -10,7 +10,7 @@ const apiServer = process.env.API_SEARCH_SERVER;
 
 import { auth } from "@/app/(auth)/auth";
 import { customModel } from "@/lib/ai";
-import { models } from "@/lib/ai/models";
+import { ModelIds, models } from "@/lib/ai/models";
 import { systemPrompt } from "@/lib/ai/prompts";
 import {
     deleteChatById,
@@ -29,6 +29,7 @@ import {
 } from "@/lib/utils";
 
 import { generateTitleFromUserMessage } from "../../actions";
+import { ALLOWED_SEARCH_METHODS } from "@/lib/ai/search-options";
 
 export const maxDuration = 60;
 
@@ -54,8 +55,8 @@ export async function POST(request: Request) {
     }: {
         id: string;
         messages: Array<Message>;
-        modelId: string;
-        searchType: string;
+        modelId: ModelIds;
+        searchType: ALLOWED_SEARCH_METHODS;
         isCompare?: boolean;
     } = await request.json();
 
@@ -64,17 +65,28 @@ export async function POST(request: Request) {
 
     const lastUserMessage = messages[messages.length - 1];
     const contentLastUserMessage = lastUserMessage.content;
+    const searchUrlPart =
+        searchType === "hybrid" ? "search_hybrid_rerank" : "search_semantic";
     const apiResult = await fetch(
-        `${apiServer}/api/search_hybrid_rerank?q=${contentLastUserMessage}&result_limit=3`
+        `${apiServer}/api/${searchUrlPart}?q=${contentLastUserMessage}&result_limit=5`
     );
     const apiResultData = await apiResult.json();
-    const topResultsContent = (apiResultData.result.points || [])
+    const results =
+        searchType === "hybrid"
+            ? apiResultData.result.points
+            : apiResultData.result;
+    const topResultsContent = (results || [])
         .map(
             (result: any, index: number) =>
-                `Result: ${index + 1} \n${result.payload.content}\n\n`
+                `Result: ${index + 1} \n${
+                    searchType === "hybrid"
+                        ? result.payload.content
+                        : result.content
+                }\n\n`
         )
         .reverse()
         .join(" ");
+    console.log("topResultsContent", topResultsContent);
 
     const prompt = `
         ----Start of user question----
