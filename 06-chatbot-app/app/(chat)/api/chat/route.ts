@@ -13,9 +13,11 @@ import { customModel } from "@/lib/ai";
 import { ModelIds, models } from "@/lib/ai/models";
 import { systemPrompt } from "@/lib/ai/prompts";
 import {
+    createUser,
     deleteChatById,
     getChatById,
     getDocumentById,
+    getUserById,
     saveChat,
     saveDocument,
     saveMessages,
@@ -127,7 +129,24 @@ export async function POST(request: Request) {
         const title = await generateTitleFromUserMessage({
             message: userMessage,
         });
-        await saveChat({ id, userId: session.user.id, title });
+        try {
+            await saveChat({ id, userId: session.user.id, title });
+        } catch (error: any) {
+            if (error.code.toString() === "23503") {
+                console.error("Failed to save chat", error.code);
+                const currentUser = await getUserById(session?.user?.id!);
+                console.log("currentUser on save chat", currentUser);
+                if (currentUser.length === 0) {
+                    const userCreated = await createUser(
+                        session?.user?.id,
+                        session?.user?.email!,
+                        "password"
+                    );
+                    console.log("userCreated on save chat", userCreated);
+                }
+                await saveChat({ id, userId: session.user.id, title });
+            }
+        }
     }
 
     await saveMessages({
