@@ -67,8 +67,16 @@ export function ChatHeader({
             ) : (
                 <span className="text-sm">{defaultModel?.label}</span>
             )}
+            <Link href="/about" className="ml-auto">
+                <Button
+                    variant="ghost"
+                    className="order-3 md:order-4 text-sm md:text-base text-blue-500 hover:underline"
+                >
+                    Sobre o projeto
+                </Button>
+            </Link>
             <Image
-                className="hidden md:flex py-1.5 px-2 h-fit order-4 md:ml-auto"
+                className="hidden md:flex py-1.5 px-2 h-fit order-4"
                 src="/images/unesp.svg"
                 alt="Logo"
                 width={137}
