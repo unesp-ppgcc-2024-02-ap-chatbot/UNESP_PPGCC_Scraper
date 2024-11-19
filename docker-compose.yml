@@ -1,63 +1,63 @@
-version: '3'
+version: "3"
 services:
-  # nextjs:
-  #   build: ./04-chat-app
-  #   ports:
-  #     - "80:3000"  # Expose Next.js app on port 80
-  #   environment:
-  #     - API_SEARCH_SERVER=http://python-api:8055
-  #   depends_on:
-  #     - python-api
+    # nextjs:
+    #     build: ./06-chatbot-app
+    #     ports:
+    #         - "80:3000" # Expose Next.js app on port 80
+    #     environment:
+    #         - API_SEARCH_SERVER=http://python-api:8055
+    #     depends_on:
+    #         - python-api
 
-  python-api:
-    build: ./05-search-api
-    ports:
-      - "8055:8055"  # Expose Python API locally, not accessible outside
-    environment:
-      - QDRANT_URL=http://qdrant:6333
-      - QDRANT_COLLECTION_NAME=${QDRANT_COLLECTION_NAME}
-      - QDRANT_API_KEY=${QDRANT_API_KEY}  # Set Qdrant password
-    depends_on:
-      - qdrant
+    python-api:
+        build: ./05-search-api
+        ports:
+            - "8055:8055" # Expose Python API locally, not accessible outside
+        environment:
+            - QDRANT_URL=http://qdrant:6333
+            - QDRANT_COLLECTION_NAME=${QDRANT_COLLECTION_NAME}
+            - QDRANT_API_KEY=${QDRANT_API_KEY} # Set Qdrant password
+        depends_on:
+            - qdrant
 
-  qdrant:
-    image: qdrant/qdrant
-    ports:
-      - "6333:6333"
-    volumes:
-      - qdrant_storage:/qdrant/storage
-    environment:
-      - QDRANT__SERVICE__API_KEY=${QDRANT_API_KEY}  # Set Qdrant password
+    qdrant:
+        image: qdrant/qdrant
+        ports:
+            - "6333:6333"
+        volumes:
+            - qdrant_storage:/qdrant/storage
+        environment:
+            - QDRANT__SERVICE__API_KEY=${QDRANT_API_KEY} # Set Qdrant password
 
-  unesp-auth:
-    image: postgres:15  # Use the latest stable version of PostgreSQL
-    ports:
-      - "5432:5432"
-    environment:
-      - POSTGRES_USER=unesp_user
-      - POSTGRES_PASSWORD=unesp_password
-      - POSTGRES_DB=unesp_auth  # Set the database name
-    volumes:
-      - unesp_auth_data:/var/lib/postgresql/data
+    # unesp-auth:
+    #     image: postgres:15 # Use the latest stable version of PostgreSQL
+    #     ports:
+    #         - "5432:5432"
+    #     environment:
+    #         - POSTGRES_USER=unesp_user
+    #         - POSTGRES_PASSWORD=unesp_password
+    #         - POSTGRES_DB=unesp_auth # Set the database name
+    #     volumes:
+    #         - unesp_auth_data:/var/lib/postgresql/data
 
-  # pgadmin:
-  #   image: dpage/pgadmin4
-  #   ports:
-  #     - "5050:80"  # Expose pgAdmin on port 5050
-  #   environment:
-  #     - PGADMIN_DEFAULT_EMAIL=wagner@wagnercosta.com.br  # Default pgAdmin login email
-  #     - PGADMIN_DEFAULT_PASSWORD=admin  # Default pgAdmin password
-  #   volumes:
-  #     - pgadmin_data:/var/lib/pgadmin  # Persist pgAdmin configurations
-  #   depends_on:
-  #     - unesp-auth
+    # pgadmin:
+    #   image: dpage/pgadmin4
+    #   ports:
+    #     - "5050:80"  # Expose pgAdmin on port 5050
+    #   environment:
+    #     - PGADMIN_DEFAULT_EMAIL=wagner@wagnercosta.com.br  # Default pgAdmin login email
+    #     - PGADMIN_DEFAULT_PASSWORD=admin  # Default pgAdmin password
+    #   volumes:
+    #     - pgadmin_data:/var/lib/pgadmin  # Persist pgAdmin configurations
+    #   depends_on:
+    #     - unesp-auth
 
 volumes:
-  qdrant_storage:
-    driver: local
-  redis_storage:
-    driver: local
-  unesp_auth_data:
-    driver: local
-  pgadmin_data:
-    driver: local    
+    qdrant_storage:
+        driver: local
+    redis_storage:
+        driver: local
+    unesp_auth_data:
+        driver: local
+    pgadmin_data:
+        driver: local

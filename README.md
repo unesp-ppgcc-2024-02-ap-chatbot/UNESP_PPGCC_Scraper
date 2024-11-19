@@ -127,13 +127,13 @@ You can access the API at `http://localhost:8055/docs`.
 ### Push docker images
 
 ```bash
-cd 04-chat-app
+cd 06-chatbot-app
 docker build -t wagnerdev/chatapp-unesp:latest .
 docker push wagnerdev/chatapp-unesp:latest
 ````
 
 ```bash
-cd 03-search-api
+cd 05-search-api
 docker build -t wagnerdev/chatapi-unesp:latest .
 docker push wagnerdev/chatapi-unesp:latest
 ```
