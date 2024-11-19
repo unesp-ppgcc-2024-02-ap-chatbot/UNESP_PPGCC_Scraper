@@ -1,14 +1,46 @@
-# UNESP AI Chatbot
+# UNESP (PPGCC) Chatbot 🚀
 
-## About
+## Project Overview 🎓
 
-This project is a chatbot that uses a search engine to find answers to questions. The data is scraped from the [UNESP](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apresentacao/) postgraduate in computer science website.
+Welcome! This is a chatbot project developed as part of the Deep Learning course in the [Graduate Program in Computer Science (PPGCC) at UNESP](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apresentacao/)! 🤖💬
 
-This is a project for the deep learning course, carried out in the second semester of 2024 by the students:
+This chatbot uses context-based learning with RAG (Retrieval-Augmented Generation) to answer questions about the PPGCC program. We use data from the PPGCC website to create an intelligent and responsive assistant for program-related queries.
 
-- André da Fonseca Schuck
-- Gabriel Lima
-- Wagner Costa Santos
+The system employs a hybrid search approach, combining semantic search using the [BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3) embeddings model with BM25. After searches, we use [RRF (Reciprocal Rank Fusion)](https://plg.uwaterloo.ca/~gvcormac/cormacksigir09-rrf.pdf) to combine the results 🔍🧠
+
+## Course: Deep Learning
+
+### Professor
+**Prof. Denis Henrique Pinheiro Salvadeo**
+- [Lattes](http://lattes.cnpq.br/1475921082905793)
+- [LinkedIn](https://www.linkedin.com/in/denis-salvadeo-4022b88/)
+
+## Project Team 👥
+
+### André da Fonseca Schuck
+- [Lattes](http://lattes.cnpq.br/3687175861120007)
+- [LinkedIn](https://www.linkedin.com/in/andre-schuck)
+- Advisor: Prof. João Paulo Papa ([Lattes](http://lattes.cnpq.br/9039182932747194) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-papa-1a827923/))
+
+### Gabriel de Souza Lima
+- [Lattes](http://lattes.cnpq.br/2789715683983963)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-lima-b3976b192)
+- Advisor: Prof. Veronica Oliveira de Carvalho ([Lattes](http://lattes.cnpq.br/1961581092362881))
+
+### Wagner Costa Santos
+- [Lattes](http://lattes.cnpq.br/8724697279191424)
+- [LinkedIn](https://www.linkedin.com/in/wagnercostasantos)
+- Advisor: Prof. Arnaldo Candido Junior ([Lattes](http://lattes.cnpq.br/8769928331729891))
+
+## Technologies Used 💻
+
+- **[Qdrant](https://qdrant.tech/)**: Vector search engine for efficient similar information retrieval.
+- **[Next.js](https://nextjs.org/)**: React framework for building modern and optimized web applications.
+- **[AI SDK (Vercel)](https://sdk.vercel.ai/)**: Development kit for AI integration in web applications.
+- **[Llama 3.2 11B](https://ai.meta.com/llama/)**: Open Source language model used for experiments.
+- **[GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)**: OpenAI language model used in the chatbot.
+- **[BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3)**: Embeddings model for advanced semantic search.
+
 
 ## Getting Started
 
@@ -123,19 +155,5 @@ python 05-search-api/service.py
 ```
 
 You can access the API at `http://localhost:8055/docs`.
-
-### Push docker images
-
-```bash
-cd 06-chatbot-app
-docker build -t wagnerdev/chatapp-unesp:latest .
-docker push wagnerdev/chatapp-unesp:latest
-````
-
-```bash
-cd 05-search-api
-docker build -t wagnerdev/chatapi-unesp:latest .
-docker push wagnerdev/chatapi-unesp:latest
-```
 
 
