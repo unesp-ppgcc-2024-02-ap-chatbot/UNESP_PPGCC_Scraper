@@ -2,7 +2,7 @@
 
 ## Project Overview 🎓
 
-Welcome! This is a chatbot project developed as part of the Deep Learning course in the [Graduate Program in Computer Science (PPGCC) at UNESP](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apresentacao/)! 🤖💬
+Welcome! This is a chatbot project developed as part of the Deep Learning course in the [Postgraduate Program in Computer Science (PPGCC) at UNESP](https://www.ibilce.unesp.br/#!/pos-graduacao/programas-de-pos-graduacao/ciencia-da-computacao/apresentacao/)! 🤖💬
 
 This chatbot uses context-based learning with RAG (Retrieval-Augmented Generation) to answer questions about the PPGCC program. We use data from the PPGCC website to create an intelligent and responsive assistant for program-related queries.
 
@@ -156,4 +156,39 @@ python 05-search-api/service.py
 
 You can access the API at `http://localhost:8055/docs`.
 
+### Chatbot
 
+The chatbot is a Next.js application that uses the AI SDK to interact with the API (`06-chatbot`).
+
+Environment variables:
+
+Create a `.env.local` file in the `06-chatbot` directory with the following variables:
+
+```bash
+# Get your OpenAI API Key here: https://platform.openai.com/account/api-keys
+OPENAI_API_KEY=************
+FIREWORKS_API_KEY=************
+
+API_SEARCH_SERVER=************
+AUTH_TRUST_HOST=true
+
+# Generate a random secret: https://generate-secret.vercel.app/32 or `openssl rand -base64 32`
+AUTH_SECRET=************
+
+POSTGRES_URL=************
+
+AUTH_GOOGLE_ID=************
+AUTH_GOOGLE_SECRET=************
+```
+
+Install dependencies:
+
+```bash
+pnpm install
+```
+
+Run the chatbot:
+
+```bash
+pnpm dev
+```
