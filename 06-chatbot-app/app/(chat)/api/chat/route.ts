@@ -70,7 +70,7 @@ export async function POST(request: Request) {
     const searchUrlPart =
         searchType === "hybrid" ? "search_hybrid_rerank" : "search_semantic";
     const apiResult = await fetch(
-        `${apiServer}/api/${searchUrlPart}?q=${contentLastUserMessage}&result_limit=5`
+        `${apiServer}/api/${searchUrlPart}?q=${contentLastUserMessage}&result_limit=3`
     );
     const apiResultData = await apiResult.json();
     const results =
