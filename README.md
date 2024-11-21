@@ -228,3 +228,7 @@ pnpm dev
 | GPT-4o-mini | $0.000435 | R$0.00261 | Per query |
 | Fireworks - LLaMA 3.2 11b | $0.0004 | R$0.0024 | Per query |
 | Digital Ocean droplet | $56.00 | R$336.00 | Monthly |
+
+### Embeddings
+
+The embeddings run on the Qdrant server locally using CPU. The embeddings are generated using the `"BAAI/bge-m3"` model. The Qdrant server also handles the BM25 scoring.
