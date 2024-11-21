@@ -40,24 +40,10 @@ services:
         volumes:
             - unesp_auth_data:/var/lib/postgresql/data
 
-    pgadmin:
-        image: dpage/pgadmin4
-        ports:
-            - "5050:80" # Expose pgAdmin on port 5050
-        environment:
-            - PGADMIN_DEFAULT_EMAIL=wagner@wagnercosta.com.br # Default pgAdmin login email
-            - PGADMIN_DEFAULT_PASSWORD=admin # Default pgAdmin password
-        volumes:
-            - pgadmin_data:/var/lib/pgadmin # Persist pgAdmin configurations
-        depends_on:
-            - unesp-auth
-
 volumes:
     qdrant_storage:
         driver: local
     redis_storage:
         driver: local
     unesp_auth_data:
-        driver: local
-    pgadmin_data:
         driver: local
