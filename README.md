@@ -192,3 +192,39 @@ Run the chatbot:
 ```bash
 pnpm dev
 ```
+
+## Infrastructure
+
+### Diagram (Pricing in USD - 2024 November)
+
+![Infrastructure Diagram](./docs/infra.svg)
+
+### Monthly Costs
+
+- Digital Ocean droplet: $56.00 (R$336.00)
+  
+**Important**: The costs are based on the current prices and the usage of a small number of users. The costs can change according to the usage and the number of users.
+
+### Cost per query
+
+- Estimated tokens per query (average): Input: 1700 tokens, Output: 300 tokens
+
+1. **GPT-4o-mini**
+   - Cost (input token): $0.15/1000000 = $0.00000015 * 1700 = $0.000255
+   - Cost (output token): $0.60/1000000 = $0.0000006 * 300 = $0.00018
+   - Total cost: $0.000435
+   - Total cost (BRL): $0.000435 * 6 = R$0.00261
+
+2. **Fireworks - LLaMA 3.2 11b**
+   - Cost (input token): $0.2/1000000 = $0.0000002 * 1700 = $0.00034
+   - Cost (output token): $0.2/1000000 = $0.0000002 * 300 = $0.00006
+   - Total cost: $0.0004
+   - Total cost (BRL): $0.0004 * 6 = R$0.0024
+
+### Cost Summary
+
+| Service | Cost | Cost (BRL) | Cost Type |
+| --- | --- | --- | --- |
+| GPT-4o-mini | $0.000435 | R$0.00261 | Per query |
+| Fireworks - LLaMA 3.2 11b | $0.0004 | R$0.0024 | Per query |
+| Digital Ocean droplet | $56.00 | R$336.00 | Monthly |

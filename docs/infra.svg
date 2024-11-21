@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+    <!-- Digital Ocean Cloud -->
+    <rect x="50" y="50" width="600" height="400" rx="20" fill="#f8f9fa" stroke="#0069ff" stroke-width="2"/>
+    <text x="70" y="90" font-family="Arial" font-size="16" fill="#0069ff">Digital Ocean ($56/month)</text>
+    
+    <!-- VM Box -->
+    <rect x="100" y="120" width="500" height="300" rx="10" fill="#ffffff" stroke="#333" stroke-width="2"/>
+    <text x="120" y="150" font-family="Arial" font-size="14">VM (4 vCPUs, 8GB RAM, 80GB SSD)</text>
+    
+    <!-- K3s Label -->
+    <text x="120" y="180" font-family="Arial" font-size="12" fill="#666">Kubernetes (k3s)</text>
+    
+    <!-- Service Containers -->
+    <rect x="150" y="200" width="120" height="60" rx="5" fill="#e9ecef" stroke="#495057"/>
+    <text x="160" y="235" font-family="Arial" font-size="12">Qdrant (Vector DB)</text>
+    
+    <rect x="290" y="200" width="120" height="60" rx="5" fill="#e9ecef" stroke="#495057"/>
+    <text x="295" y="235" font-family="Arial" font-size="12">API Service (Python)</text>
+    
+    <rect x="430" y="200" width="120" height="60" rx="5" fill="#e9ecef" stroke="#495057"/>
+    <text x="440" y="235" font-family="Arial" font-size="12">NextJS (Frontend)</text>
+    
+    <rect x="290" y="280" width="120" height="60" rx="5" fill="#e9ecef" stroke="#495057"/>
+    <text x="294" y="315" font-family="Arial" font-size="12">Postgres (Chat data)</text>
+    
+    <!-- External Services -->
+    <rect x="100" y="480" width="200" height="70" rx="10" fill="#ffffff" stroke="#ff4d4f"/>
+    <text x="120" y="510" font-family="Arial" font-size="12">Fireworks AI</text>
+    <text x="120" y="530" font-family="Arial" font-size="10" fill="#666">LLaMA 3.2 11b</text>
+    <text x="120" y="545" font-family="Arial" font-size="10" fill="#666">$0.20/1M tokens (I/O)</text>
+    
+    <rect x="400" y="480" width="200" height="70" rx="10" fill="#ffffff" stroke="#00a67e"/>
+    <text x="420" y="510" font-family="Arial" font-size="12">OpenAI</text>
+    <text x="420" y="530" font-family="Arial" font-size="10" fill="#666">GPT-4o-mini</text>
+    <text x="420" y="545" font-family="Arial" font-size="10" fill="#666">$0.15/1M input, $0.6/1M output</text>
+    
+    <!-- Connection Lines -->
+    <line x1="350" y1="380" x2="200" y2="480" stroke="#666" stroke-width="1" stroke-dasharray="5,5"/>
+    <line x1="350" y1="380" x2="500" y2="480" stroke="#666" stroke-width="1" stroke-dasharray="5,5"/>
+</svg>
